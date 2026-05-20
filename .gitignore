@@ -26,6 +26,7 @@ logs/
 data/*.json
 signals/*.json
 .env
+.env.local
 
 # OS
 .DS_Store
@@ -36,3 +37,14 @@ Thumbs.db
 *.bak
 QUICK_REFERENCE.txt
 客户端入.txt
+
+# Sensitive configuration files
+*.pem
+*.key
+credentials.json
+service_account.json
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
