@@ -1,0 +1,9 @@
+{"ts": "2026-05-08 13:11:27", "code": "SZSE.002460", "name": "赣锋锂业", "action": "SELL", "price": 86.87, "volume_ratio": 0.17, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:11:27", "code": "SZSE.002498", "name": "汉缆股份", "action": "SELL", "price": 9.15, "volume_ratio": 0.18, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:11:27", "code": "SZSE.002046", "name": "国机精工", "action": "SELL", "price": 58.36, "volume_ratio": 0.2, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:11:27", "code": "SZSE.002460", "name": "赣锋锂业", "action": "SELL", "price": 86.69, "volume_ratio": 0.9, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:11:27", "code": "SZSE.002498", "name": "汉缆股份", "action": "SELL", "price": 9.13, "volume_ratio": 0.57, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:11:27", "code": "SZSE.002925", "name": "盈趣科技", "action": "BUY", "price": 21.22, "volume_ratio": 1.41, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:11:27", "code": "SZSE.002046", "name": "国机精工", "action": "SELL", "price": 58.03, "volume_ratio": 0.01, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:11:27", "code": "SHSE.688617", "name": "惠泰医疗", "action": "BUY", "price": 233.03, "volume_ratio": 1.04, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:11:27", "code": "SHSE.688617", "name": "惠泰医疗", "action": "BUY", "price": 233.03, "volume_ratio": 1.04, "source": "AlphaPilot_Email"}

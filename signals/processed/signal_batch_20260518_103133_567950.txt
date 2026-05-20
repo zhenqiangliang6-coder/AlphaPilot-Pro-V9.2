@@ -1,0 +1,15 @@
+{"ts": "2026-05-18 10:31:32", "code": "SZSE.000037", "name": "深南电A", "action": "SELL", "price": 10.62, "volume_ratio": 0.41, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 10:31:32", "code": "SZSE.000657", "name": "中钨高新", "action": "SELL", "price": 58.36, "volume_ratio": 0.53, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 10:31:32", "code": "SZSE.000819", "name": "岳阳兴长", "action": "BUY", "price": 16.25, "volume_ratio": 0.43, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 10:31:32", "code": "SZSE.002203", "name": "海亮股份", "action": "BUY", "price": 20.69, "volume_ratio": 0.1, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 10:31:32", "code": "SZSE.002338", "name": "奥普光电", "action": "BUY", "price": 63.71, "volume_ratio": 0.11, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 10:31:32", "code": "SZSE.002487", "name": "大金重工", "action": "SELL", "price": 78.92, "volume_ratio": 0.36, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 10:31:32", "code": "SZSE.002580", "name": "圣阳股份", "action": "SELL", "price": 26.76, "volume_ratio": 1.01, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 10:31:32", "code": "SHSE.688811", "name": "有研复材", "action": "BUY", "price": 28.71, "volume_ratio": 0.46, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 10:31:32", "code": "SZSE.000037", "name": "深南电A", "action": "SELL", "price": 10.62, "volume_ratio": 0.52, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 10:31:32", "code": "SZSE.000657", "name": "中钨高新", "action": "SELL", "price": 58.3, "volume_ratio": 0.14, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 10:31:32", "code": "SZSE.000819", "name": "岳阳兴长", "action": "BUY", "price": 16.26, "volume_ratio": 0.06, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 10:31:32", "code": "SZSE.002203", "name": "海亮股份", "action": "BUY", "price": 20.74, "volume_ratio": 0.89, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 10:31:32", "code": "SZSE.002338", "name": "奥普光电", "action": "BUY", "price": 63.81, "volume_ratio": 0.25, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 10:31:32", "code": "SZSE.002487", "name": "大金重工", "action": "SELL", "price": 78.73, "volume_ratio": 0.24, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 10:31:32", "code": "SZSE.002580", "name": "圣阳股份", "action": "SELL", "price": 26.65, "volume_ratio": 1.13, "source": "AlphaPilot_Email"}

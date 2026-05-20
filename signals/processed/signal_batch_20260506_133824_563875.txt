@@ -1,0 +1,11 @@
+{"ts": "2026-05-06 13:38:24", "code": "SHSE.600821", "name": "金发科技", "action": "BUY", "price": 8.1, "volume_ratio": 0.54, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-06 13:38:24", "code": "SHSE.601016", "name": "节能风电", "action": "BUY", "price": 4.34, "volume_ratio": 0.34, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-06 13:38:24", "code": "SZSE.300782", "name": "卓胜微", "action": "SELL", "price": 100.79, "volume_ratio": 0.64, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-06 13:38:24", "code": "SZSE.300866", "name": "安克创新", "action": "SELL", "price": 125.61, "volume_ratio": 0.51, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-06 13:38:24", "code": "SZSE.300724", "name": "捷佳伟创", "action": "BUY", "price": 92.54, "volume_ratio": 0.29, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-06 13:38:24", "code": "SZSE.002015", "name": "协鑫能科", "action": "BUY", "price": 19.02, "volume_ratio": 1.66, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-06 13:38:24", "code": "SZSE.000533", "name": "顺钠股份", "action": "BUY", "price": 13.1, "volume_ratio": 2.47, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-06 13:38:24", "code": "SHSE.600821", "name": "金发科技", "action": "BUY", "price": 8.1, "volume_ratio": 0.91, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-06 13:38:24", "code": "SHSE.601016", "name": "节能风电", "action": "BUY", "price": 4.34, "volume_ratio": 0.5, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-06 13:38:24", "code": "SZSE.300782", "name": "卓胜微", "action": "SELL", "price": 100.57, "volume_ratio": 0.28, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-06 13:38:24", "code": "SZSE.300724", "name": "捷佳伟创", "action": "BUY", "price": 92.66, "volume_ratio": 0.76, "source": "AlphaPilot_Email"}

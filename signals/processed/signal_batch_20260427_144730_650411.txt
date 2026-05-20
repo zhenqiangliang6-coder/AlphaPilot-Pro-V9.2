@@ -1,0 +1,10 @@
+{"ts": "2026-04-27 14:47:30", "code": "SZSE.300037", "name": "新宙邦", "action": "BUY", "price": 68.35, "volume_ratio": 0.43, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 14:47:30", "code": "SZSE.002506", "name": "协鑫集成", "action": "BUY", "price": 4.36, "volume_ratio": 0.3, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 14:47:30", "code": "SZSE.301071", "name": "力量钻石", "action": "BUY", "price": 53.09, "volume_ratio": 1.84, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 14:47:30", "code": "SZSE.300390", "name": "天华超净", "action": "BUY", "price": 93.86, "volume_ratio": 0.17, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 14:47:30", "code": "SZSE.300054", "name": "鼎龙股份", "action": "SELL", "price": 56.5, "volume_ratio": 2.83, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 14:47:30", "code": "SZSE.300037", "name": "新宙邦", "action": "BUY", "price": 68.47, "volume_ratio": 0.12, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 14:47:30", "code": "SZSE.002506", "name": "协鑫集成", "action": "BUY", "price": 4.37, "volume_ratio": 0.19, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 14:47:30", "code": "SZSE.301071", "name": "力量钻石", "action": "BUY", "price": 53.12, "volume_ratio": 0.17, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 14:47:30", "code": "SZSE.300390", "name": "天华超净", "action": "BUY", "price": 94.01, "volume_ratio": 0.5, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 14:47:30", "code": "SZSE.300054", "name": "鼎龙股份", "action": "SELL", "price": 55.71, "volume_ratio": 14.87, "source": "AlphaPilot_Email"}

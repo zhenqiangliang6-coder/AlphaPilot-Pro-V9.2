@@ -1,0 +1,2 @@
+{"ts": "2026-04-27 15:05:45", "code": "SZSE.000510", "name": "新金路", "action": "BUY", "price": 13.07, "volume_ratio": 0.71, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 15:05:45", "code": "SZSE.000510", "name": "新金路", "action": "BUY", "price": 13.08, "volume_ratio": NaN, "source": "AlphaPilot_Email"}

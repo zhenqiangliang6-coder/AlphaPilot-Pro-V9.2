@@ -1,0 +1,16 @@
+{"ts": "2026-05-12 10:27:18", "code": "SHSE.688416", "name": "恒烁股份", "action": "BUY", "price": 125.68, "volume_ratio": 0.44, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:27:18", "code": "SHSE.688811", "name": "有研复材", "action": "BUY", "price": 28.43, "volume_ratio": 0.14, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:27:18", "code": "SZSE.001400", "name": "江顺科技", "action": "BUY", "price": 196.25, "volume_ratio": 2.57, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:27:18", "code": "SZSE.002108", "name": "沧州明珠", "action": "SELL", "price": 6.3, "volume_ratio": 1.19, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:27:18", "code": "SZSE.002203", "name": "海亮股份", "action": "BUY", "price": 22.28, "volume_ratio": 0.06, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:27:18", "code": "SZSE.002273", "name": "水晶光电", "action": "BUY", "price": 38.65, "volume_ratio": 0.53, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:27:18", "code": "SZSE.002436", "name": "兴森科技", "action": "SELL", "price": 33.28, "volume_ratio": 1.49, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:27:18", "code": "SZSE.002580", "name": "圣阳股份", "action": "SELL", "price": 34.95, "volume_ratio": 0.72, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:27:18", "code": "SHSE.688416", "name": "恒烁股份", "action": "BUY", "price": 126.04, "volume_ratio": 0.09, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:27:18", "code": "SHSE.688811", "name": "有研复材", "action": "BUY", "price": 28.46, "volume_ratio": 0.03, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:27:18", "code": "SZSE.001400", "name": "江顺科技", "action": "BUY", "price": 197.07, "volume_ratio": 1.26, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:27:18", "code": "SZSE.002108", "name": "沧州明珠", "action": "SELL", "price": 6.28, "volume_ratio": 5.03, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:27:18", "code": "SZSE.002203", "name": "海亮股份", "action": "BUY", "price": 22.4, "volume_ratio": 0.29, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:27:18", "code": "SZSE.002273", "name": "水晶光电", "action": "BUY", "price": 38.73, "volume_ratio": 1.01, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:27:18", "code": "SZSE.002436", "name": "兴森科技", "action": "SELL", "price": 33.36, "volume_ratio": 0.01, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:27:18", "code": "SZSE.002580", "name": "圣阳股份", "action": "SELL", "price": 34.79, "volume_ratio": 0.25, "source": "AlphaPilot_Email"}

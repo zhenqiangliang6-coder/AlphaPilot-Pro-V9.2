@@ -1,0 +1,12 @@
+{"ts": "2026-05-11 13:13:36", "code": "SZSE.002460", "name": "赣锋锂业", "action": "BUY", "price": 85.25, "volume_ratio": 0.08, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 13:13:36", "code": "SZSE.002679", "name": "福建金森", "action": "BUY", "price": 10.99, "volume_ratio": 17.24, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 13:13:36", "code": "SZSE.300352", "name": "北信源", "action": "BUY", "price": 3.82, "volume_ratio": 0.87, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 13:13:36", "code": "SZSE.002046", "name": "国机精工", "action": "SELL", "price": 59.02, "volume_ratio": 0.56, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 13:13:36", "code": "SZSE.300432", "name": "富临精工", "action": "SELL", "price": 27.02, "volume_ratio": 0.11, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 13:13:36", "code": "SZSE.000592", "name": "平潭发展", "action": "SELL", "price": 11.85, "volume_ratio": 9.19, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 13:13:36", "code": "SZSE.002460", "name": "赣锋锂业", "action": "BUY", "price": 85.39, "volume_ratio": 0.04, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 13:13:36", "code": "SZSE.002679", "name": "福建金森", "action": "BUY", "price": 11.02, "volume_ratio": 0.05, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 13:13:36", "code": "SZSE.300352", "name": "北信源", "action": "BUY", "price": 3.83, "volume_ratio": 0.71, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 13:13:36", "code": "SZSE.002046", "name": "国机精工", "action": "SELL", "price": 58.61, "volume_ratio": 1.87, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 13:13:36", "code": "SZSE.300432", "name": "富临精工", "action": "SELL", "price": 26.98, "volume_ratio": 0.35, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 13:13:36", "code": "SZSE.000592", "name": "平潭发展", "action": "SELL", "price": 11.82, "volume_ratio": 1.14, "source": "AlphaPilot_Email"}

@@ -1,0 +1,13 @@
+{"ts": "2026-04-28 09:38:12", "code": "SHSE.600726", "name": "华电能源", "action": "BUY", "price": 6.61, "volume_ratio": 0.21, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 09:38:12", "code": "SHSE.688295", "name": "中复神鹰", "action": "SELL", "price": 58.13, "volume_ratio": 0.18, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 09:38:12", "code": "SZSE.300724", "name": "捷佳伟创", "action": "BUY", "price": 90.1, "volume_ratio": 0.12, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 09:38:12", "code": "SZSE.300364", "name": "中文在线", "action": "SELL", "price": 28.81, "volume_ratio": 0.14, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 09:38:12", "code": "SZSE.300763", "name": "锦浪科技", "action": "BUY", "price": 85.24, "volume_ratio": 0.77, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 09:38:12", "code": "SZSE.300285", "name": "国瓷材料", "action": "SELL", "price": 34.36, "volume_ratio": 0.93, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 09:38:12", "code": "SZSE.002015", "name": "协鑫能科", "action": "BUY", "price": 18.38, "volume_ratio": 0.55, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 09:38:12", "code": "SZSE.301667", "name": "纳百川", "action": "SELL", "price": 119.77, "volume_ratio": 0.22, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 09:38:12", "code": "SHSE.688295", "name": "奥林德", "action": "SELL", "price": 58.14, "volume_ratio": 0.05, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 09:38:12", "code": "SHSE.688295", "name": "中复神鹰", "action": "SELL", "price": 58.03, "volume_ratio": 0.92, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 09:38:12", "code": "SZSE.300724", "name": "捷佳伟创", "action": "BUY", "price": 90.29, "volume_ratio": 0.35, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 09:38:12", "code": "SZSE.300364", "name": "中文在线", "action": "SELL", "price": 28.79, "volume_ratio": 0.48, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 09:38:12", "code": "SZSE.300813", "name": "泰林生物", "action": "BUY", "price": 25.91, "volume_ratio": 1.26, "source": "AlphaPilot_Email"}

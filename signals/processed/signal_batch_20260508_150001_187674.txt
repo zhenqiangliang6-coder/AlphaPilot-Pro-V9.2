@@ -1,0 +1,11 @@
+{"ts": "2026-05-08 15:00:00", "code": "SZSE.002595", "name": "豪迈科技", "action": "BUY", "price": 86.11, "volume_ratio": 0.6, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 15:00:00", "code": "SZSE.002875", "name": "安奈儿", "action": "SELL", "price": 25.37, "volume_ratio": 1.02, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 15:00:00", "code": "SZSE.300570", "name": "太辰光", "action": "SELL", "price": 162.15, "volume_ratio": 0.91, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 15:00:00", "code": "SZSE.300801", "name": "泰和科技", "action": "SELL", "price": 30.61, "volume_ratio": 0.19, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 15:00:00", "code": "SZSE.301085", "name": "亚康股份", "action": "SELL", "price": 78.7, "volume_ratio": 0.21, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 15:00:00", "code": "SZSE.301099", "name": "雅创电子", "action": "BUY", "price": 64.01, "volume_ratio": 0.63, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 15:00:00", "code": "SZSE.301110", "name": "青木科技", "action": "BUY", "price": 70.22, "volume_ratio": 0.5, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 15:00:00", "code": "SZSE.002595", "name": "豪迈科技", "action": "BUY", "price": 86.25, "volume_ratio": 1.19, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 15:00:00", "code": "SZSE.002875", "name": "安奈儿", "action": "SELL", "price": 25.29, "volume_ratio": 1.26, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 15:00:00", "code": "SZSE.301099", "name": "雅创电子", "action": "BUY", "price": 64.06, "volume_ratio": 0.88, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 15:00:00", "code": "SZSE.301110", "name": "青木科技", "action": "BUY", "price": 70.23, "volume_ratio": 0.56, "source": "AlphaPilot_Email"}

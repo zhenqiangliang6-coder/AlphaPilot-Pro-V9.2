@@ -1,0 +1,8 @@
+{"ts": "2026-05-07 13:06:11", "code": "SZSE.002015", "name": "协鑫能科", "action": "SELL", "price": 20.44, "volume_ratio": 0.62, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:06:11", "code": "SHSE.600821", "name": "金发科技", "action": "SELL", "price": 8.81, "volume_ratio": 0.33, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:06:11", "code": "SZSE.300724", "name": "捷佳伟创", "action": "SELL", "price": 94.26, "volume_ratio": 0.3, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:06:11", "code": "SZSE.300364", "name": "中文在线", "action": "SELL", "price": 31.48, "volume_ratio": 0.16, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:06:11", "code": "SZSE.002015", "name": "协鑫能科", "action": "SELL", "price": 20.37, "volume_ratio": 1.85, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:06:11", "code": "SHSE.600821", "name": "金发科技", "action": "SELL", "price": 8.75, "volume_ratio": 1.04, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:06:11", "code": "SZSE.300724", "name": "捷佳伟创", "action": "SELL", "price": 94.1, "volume_ratio": 0.2, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:06:11", "code": "SZSE.300364", "name": "中文在线", "action": "SELL", "price": 31.35, "volume_ratio": 0.58, "source": "AlphaPilot_Email"}

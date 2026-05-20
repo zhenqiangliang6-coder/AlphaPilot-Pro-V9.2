@@ -1,0 +1,82 @@
+[
+  {
+    "code": "603663",
+    "name": "三祥新材",
+    "signal": "买入",
+    "fusion": "-0.0118",
+    "current_price": "45.3700",
+    "volume_ratio": 0.41,
+    "timestamp": "2026-05-07 13:22:36",
+    "source": "thr"
+  },
+  {
+    "code": "605060",
+    "name": "联德股份",
+    "signal": "买入",
+    "fusion": "-0.0084",
+    "current_price": "63.2400",
+    "volume_ratio": 0.41,
+    "timestamp": "2026-05-07 13:22:36",
+    "source": "thr"
+  },
+  {
+    "code": "688025",
+    "name": "杰普特",
+    "signal": "卖出",
+    "fusion": "0.0154",
+    "current_price": "374.0100",
+    "volume_ratio": 0.39,
+    "timestamp": "2026-05-07 13:22:36",
+    "source": "thr"
+  },
+  {
+    "code": "688337",
+    "name": "普源精电",
+    "signal": "卖出",
+    "fusion": "0.0015",
+    "current_price": "63.8200",
+    "volume_ratio": 0.11,
+    "timestamp": "2026-05-07 13:22:36",
+    "source": "thr"
+  },
+  {
+    "code": "603663",
+    "name": "三祥新材",
+    "signal": "买入",
+    "fusion": "-0.0090",
+    "current_price": "45.4400",
+    "volume_ratio": 0.53,
+    "timestamp": "2026-05-07 13:22:36",
+    "source": "thr"
+  },
+  {
+    "code": "605060",
+    "name": "联德股份",
+    "signal": "买入",
+    "fusion": "-0.0095",
+    "current_price": "63.3700",
+    "volume_ratio": 1.23,
+    "timestamp": "2026-05-07 13:22:36",
+    "source": "thr"
+  },
+  {
+    "code": "688025",
+    "name": "杰普特",
+    "signal": "卖出",
+    "fusion": "0.0095",
+    "current_price": "373.0900",
+    "volume_ratio": 0.03,
+    "timestamp": "2026-05-07 13:22:36",
+    "source": "thr"
+  },
+  {
+    "code": "688337",
+    "name": "普源精电",
+    "signal": "卖出",
+    "fusion": "0.0021",
+    "current_price": "63.7900",
+    "volume_ratio": 0.03,
+    "timestamp": "2026-05-07 13:22:36",
+    "source": "thr"
+  }
+]

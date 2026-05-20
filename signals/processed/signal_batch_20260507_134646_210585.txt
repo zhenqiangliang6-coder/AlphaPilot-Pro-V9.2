@@ -1,0 +1,17 @@
+{"ts": "2026-05-07 13:46:44", "code": "SZSE.002875", "name": "安奈儿", "action": "BUY", "price": 24.35, "volume_ratio": 1.29, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:46:44", "code": "SZSE.002940", "name": "昂利康", "action": "BUY", "price": 32.6, "volume_ratio": 0.68, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:46:44", "code": "SZSE.300012", "name": "华测检测", "action": "BUY", "price": 16.39, "volume_ratio": 0.89, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:46:44", "code": "SZSE.300083", "name": "创世纪", "action": "BUY", "price": 10.28, "volume_ratio": 1.18, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:46:44", "code": "SZSE.300342", "name": "天银机电", "action": "BUY", "price": 64.99, "volume_ratio": 1.51, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:46:44", "code": "SZSE.300801", "name": "泰和科技", "action": "BUY", "price": 30.88, "volume_ratio": 0.1, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:46:44", "code": "SZSE.301085", "name": "亚康股份", "action": "BUY", "price": 77.73, "volume_ratio": 0.85, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:46:44", "code": "SZSE.301099", "name": "雅创电子", "action": "BUY", "price": 62.86, "volume_ratio": 0.25, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:46:44", "code": "SZSE.301110", "name": "青木科技", "action": "SELL", "price": 70.33, "volume_ratio": 0.28, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:46:44", "code": "SZSE.002940", "name": "昂利康", "action": "BUY", "price": 32.63, "volume_ratio": 0.9, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:46:44", "code": "SZSE.300012", "name": "华测检测", "action": "BUY", "price": 16.4, "volume_ratio": 0.68, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:46:44", "code": "SZSE.300083", "name": "创世纪", "action": "BUY", "price": 10.28, "volume_ratio": 2.11, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:46:44", "code": "SZSE.300342", "name": "天银机电", "action": "BUY", "price": 65.68, "volume_ratio": 1.44, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:46:44", "code": "SZSE.300801", "name": "泰和科技", "action": "BUY", "price": 30.95, "volume_ratio": 0.07, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:46:44", "code": "SZSE.301085", "name": "亚康股份", "action": "BUY", "price": 77.85, "volume_ratio": 0.72, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:46:44", "code": "SZSE.301099", "name": "雅创电子", "action": "BUY", "price": 62.93, "volume_ratio": 0.23, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:46:44", "code": "SZSE.301110", "name": "青木科技", "action": "SELL", "price": 70.32, "volume_ratio": 0.27, "source": "AlphaPilot_Email"}

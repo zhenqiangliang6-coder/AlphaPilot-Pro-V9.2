@@ -1,0 +1,10 @@
+{"ts": "2026-04-28 10:53:16", "code": "SZSE.300722", "name": "新余国科", "action": "SELL", "price": 28.06, "volume_ratio": 0.78, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:53:16", "code": "SZSE.300641", "name": "正丹股份", "action": "SELL", "price": 17.79, "volume_ratio": 1.13, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:53:16", "code": "SZSE.300461", "name": "田中精机", "action": "SELL", "price": 56.67, "volume_ratio": 1.77, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:53:16", "code": "SZSE.301449", "name": "天溯计量", "action": "BUY", "price": 71.21, "volume_ratio": 0.5, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:53:16", "code": "SZSE.002980", "name": "华盛昌", "action": "SELL", "price": 85.93, "volume_ratio": 7.57, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:53:16", "code": "SZSE.300722", "name": "新余国科", "action": "SELL", "price": 28.04, "volume_ratio": 0.01, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:53:16", "code": "SZSE.300641", "name": "正丹股份", "action": "SELL", "price": 17.72, "volume_ratio": 1.93, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:53:16", "code": "SZSE.300461", "name": "田中精机", "action": "SELL", "price": 56.54, "volume_ratio": 1.26, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:53:16", "code": "SZSE.301449", "name": "天溯计量", "action": "BUY", "price": 71.5, "volume_ratio": 0.15, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:53:16", "code": "SZSE.002980", "name": "华盛昌", "action": "SELL", "price": 85.9, "volume_ratio": 0.35, "source": "AlphaPilot_Email"}

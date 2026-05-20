@@ -1,0 +1,14 @@
+{"ts": "2026-05-15 10:36:23", "code": "SHSE.688811", "name": "有研复材", "action": "SELL", "price": 27.07, "volume_ratio": 0.02, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 10:36:23", "code": "SZSE.001400", "name": "江顺科技", "action": "SELL", "price": 180.61, "volume_ratio": 1.66, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 10:36:23", "code": "SZSE.002062", "name": "宏润建设", "action": "BUY", "price": 9.6, "volume_ratio": 0.04, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 10:36:23", "code": "SZSE.002436", "name": "兴森科技", "action": "BUY", "price": 32.35, "volume_ratio": 0.25, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 10:36:23", "code": "SZSE.002487", "name": "大金重工", "action": "SELL", "price": 78.0, "volume_ratio": 0.63, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 10:36:23", "code": "SZSE.002580", "name": "圣阳股份", "action": "BUY", "price": 28.32, "volume_ratio": 0.62, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 10:36:23", "code": "SHSE.688416", "name": "恒烁股份", "action": "SELL", "price": 120.92, "volume_ratio": 0.2, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 10:36:23", "code": "SHSE.688811", "name": "有研复材", "action": "SELL", "price": 27.04, "volume_ratio": 0.05, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 10:36:23", "code": "SZSE.001400", "name": "江顺科技", "action": "SELL", "price": 180.1, "volume_ratio": 0.96, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 10:36:23", "code": "SZSE.002062", "name": "宏润建设", "action": "BUY", "price": 9.62, "volume_ratio": 0.09, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 10:36:23", "code": "SZSE.002203", "name": "海亮股份", "action": "BUY", "price": 21.25, "volume_ratio": 0.03, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 10:36:23", "code": "SZSE.002436", "name": "兴森科技", "action": "BUY", "price": 32.43, "volume_ratio": 0.28, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 10:36:23", "code": "SZSE.002487", "name": "大金重工", "action": "SELL", "price": 77.97, "volume_ratio": 0.1, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 10:36:23", "code": "SZSE.002580", "name": "圣阳股份", "action": "BUY", "price": 28.45, "volume_ratio": 0.12, "source": "AlphaPilot_Email"}

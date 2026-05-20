@@ -1,0 +1,6 @@
+{"ts": "2026-05-19 11:03:04", "code": "SZSE.002015", "name": "协鑫能科", "action": "BUY", "price": 22.1, "volume_ratio": 0.2, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 11:03:04", "code": "SZSE.002445", "name": "中南文化", "action": "SELL", "price": 3.89, "volume_ratio": 2.52, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 11:03:04", "code": "SHSE.600722", "name": "金牛化工", "action": "BUY", "price": 11.98, "volume_ratio": 0.02, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 11:03:04", "code": "SZSE.002015", "name": "协鑫能科", "action": "BUY", "price": 22.18, "volume_ratio": 0.16, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 11:03:04", "code": "SZSE.002445", "name": "中南文化", "action": "SELL", "price": 3.88, "volume_ratio": 0.01, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 11:03:04", "code": "SHSE.600722", "name": "金牛化工", "action": "BUY", "price": 12.0, "volume_ratio": 0.21, "source": "AlphaPilot_Email"}

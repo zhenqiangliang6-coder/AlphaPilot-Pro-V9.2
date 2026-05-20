@@ -1,0 +1,14 @@
+{"ts": "2026-04-27 11:02:26", "code": "SZSE.002015", "name": "协鑫能科", "action": "BUY", "price": 19.09, "volume_ratio": 0.0, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 11:02:26", "code": "SZSE.000533", "name": "顺钠股份", "action": "BUY", "price": 12.9, "volume_ratio": 0.07, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 11:02:26", "code": "SZSE.301226", "name": "祥明智能", "action": "SELL", "price": 38.78, "volume_ratio": 0.09, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 11:02:26", "code": "SHSE.601669", "name": "中国电建", "action": "SELL", "price": 5.7, "volume_ratio": 0.0, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 11:02:26", "code": "SZSE.300782", "name": "卓胜微", "action": "BUY", "price": 107.41, "volume_ratio": 0.13, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 11:02:26", "code": "SZSE.300866", "name": "安克创新", "action": "BUY", "price": 121.63, "volume_ratio": 1.33, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 11:02:26", "code": "SZSE.300724", "name": "捷佳伟创", "action": "SELL", "price": 90.26, "volume_ratio": 0.33, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 11:02:26", "code": "SZSE.002015", "name": "协鑫能科", "action": "BUY", "price": 19.11, "volume_ratio": 0.05, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 11:02:26", "code": "SZSE.000533", "name": "顺钠股份", "action": "BUY", "price": 12.93, "volume_ratio": 0.58, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 11:02:26", "code": "SZSE.301226", "name": "祥明智能", "action": "SELL", "price": 38.72, "volume_ratio": 0.21, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 11:02:26", "code": "SHSE.601669", "name": "中国电建", "action": "SELL", "price": 5.69, "volume_ratio": 0.1, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 11:02:26", "code": "SZSE.300782", "name": "卓胜微", "action": "BUY", "price": 107.47, "volume_ratio": 0.2, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 11:02:26", "code": "SZSE.300866", "name": "安克创新", "action": "BUY", "price": 122.36, "volume_ratio": 1.85, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 11:02:26", "code": "SZSE.300724", "name": "捷佳伟创", "action": "SELL", "price": 90.03, "volume_ratio": 0.04, "source": "AlphaPilot_Email"}

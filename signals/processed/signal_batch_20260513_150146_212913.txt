@@ -1,0 +1,12 @@
+{"ts": "2026-05-13 15:01:46", "code": "SZSE.301158", "name": "万集科技", "action": "BUY", "price": 26.96, "volume_ratio": 0.52, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 15:01:46", "code": "SZSE.300641", "name": "正丹股份", "action": "BUY", "price": 16.96, "volume_ratio": 0.13, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 15:01:46", "code": "SZSE.300461", "name": "田中精机", "action": "BUY", "price": 51.85, "volume_ratio": 1.79, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 15:01:46", "code": "SZSE.301389", "name": "隆扬电子", "action": "SELL", "price": 80.81, "volume_ratio": 0.89, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 15:01:46", "code": "SZSE.300468", "name": "四方精创", "action": "BUY", "price": 28.91, "volume_ratio": 0.76, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 15:01:46", "code": "SZSE.002980", "name": "华盛昌", "action": "SELL", "price": 86.49, "volume_ratio": 1.1, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 15:01:46", "code": "SZSE.301158", "name": "万集科技", "action": "BUY", "price": 26.97, "volume_ratio": 0.66, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 15:01:46", "code": "SZSE.300641", "name": "正丹股份", "action": "BUY", "price": 16.97, "volume_ratio": 0.59, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 15:01:46", "code": "SZSE.300461", "name": "田中精机", "action": "BUY", "price": 51.92, "volume_ratio": 2.41, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 15:01:46", "code": "SZSE.301389", "name": "隆扬电子", "action": "SELL", "price": 80.68, "volume_ratio": 1.19, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 15:01:46", "code": "SZSE.300468", "name": "四方精创", "action": "BUY", "price": 28.92, "volume_ratio": 0.93, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 15:01:46", "code": "SZSE.002980", "name": "华盛昌", "action": "SELL", "price": 86.06, "volume_ratio": NaN, "source": "AlphaPilot_Email"}

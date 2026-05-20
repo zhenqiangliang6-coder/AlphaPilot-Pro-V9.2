@@ -1,0 +1,192 @@
+[
+  {
+    "code": "301282",
+    "name": "金禄电子",
+    "signal": "买入",
+    "fusion": "0.0015",
+    "current_price": "41.9000",
+    "volume_ratio": 0.57,
+    "timestamp": "2026-05-07 13:32:47",
+    "source": "thr"
+  },
+  {
+    "code": "301295",
+    "name": "美硕科技",
+    "signal": "买入",
+    "fusion": "0.0167",
+    "current_price": "45.5000",
+    "volume_ratio": 0.33,
+    "timestamp": "2026-05-07 13:32:47",
+    "source": "thr"
+  },
+  {
+    "code": "301310",
+    "name": "鑫宏业",
+    "signal": "买入",
+    "fusion": "0.0107",
+    "current_price": "63.1900",
+    "volume_ratio": 0.36,
+    "timestamp": "2026-05-07 13:32:47",
+    "source": "thr"
+  },
+  {
+    "code": "301319",
+    "name": "唯特偶",
+    "signal": "卖出",
+    "fusion": "0.0187",
+    "current_price": "89.7200",
+    "volume_ratio": 0.18,
+    "timestamp": "2026-05-07 13:32:47",
+    "source": "thr"
+  },
+  {
+    "code": "301328",
+    "name": "维峰电子",
+    "signal": "买入",
+    "fusion": "0.0030",
+    "current_price": "64.5400",
+    "volume_ratio": 0.04,
+    "timestamp": "2026-05-07 13:32:47",
+    "source": "thr"
+  },
+  {
+    "code": "301382",
+    "name": "蜂助手",
+    "signal": "买入",
+    "fusion": "-0.0232",
+    "current_price": "46.6000",
+    "volume_ratio": 0.8,
+    "timestamp": "2026-05-07 13:32:47",
+    "source": "thr"
+  },
+  {
+    "code": "301389",
+    "name": "隆扬电子",
+    "signal": "买入",
+    "fusion": "0.0148",
+    "current_price": "73.7200",
+    "volume_ratio": 1.62,
+    "timestamp": "2026-05-07 13:32:47",
+    "source": "thr"
+  },
+  {
+    "code": "301458",
+    "name": "钧崴电子",
+    "signal": "买入",
+    "fusion": "-0.0152",
+    "current_price": "42.6300",
+    "volume_ratio": 1.28,
+    "timestamp": "2026-05-07 13:32:47",
+    "source": "thr"
+  },
+  {
+    "code": "301536",
+    "name": "星宸科技",
+    "signal": "卖出",
+    "fusion": "-0.0033",
+    "current_price": "88.2500",
+    "volume_ratio": 0.4,
+    "timestamp": "2026-05-07 13:32:47",
+    "source": "thr"
+  },
+  {
+    "code": "301282",
+    "name": "金禄电子",
+    "signal": "买入",
+    "fusion": "0.0030",
+    "current_price": "41.9300",
+    "volume_ratio": 0.33,
+    "timestamp": "2026-05-07 13:32:47",
+    "source": "thr"
+  },
+  {
+    "code": "301295",
+    "name": "美硕科技",
+    "signal": "买入",
+    "fusion": "0.0153",
+    "current_price": "45.5100",
+    "volume_ratio": 0.03,
+    "timestamp": "2026-05-07 13:32:47",
+    "source": "thr"
+  },
+  {
+    "code": "301310",
+    "name": "鑫宏业",
+    "signal": "买入",
+    "fusion": "0.0082",
+    "current_price": "63.4600",
+    "volume_ratio": 3.82,
+    "timestamp": "2026-05-07 13:32:47",
+    "source": "thr"
+  },
+  {
+    "code": "301319",
+    "name": "唯特偶",
+    "signal": "卖出",
+    "fusion": "0.0179",
+    "current_price": "89.5600",
+    "volume_ratio": 1.2,
+    "timestamp": "2026-05-07 13:32:47",
+    "source": "thr"
+  },
+  {
+    "code": "301328",
+    "name": "维峰电子",
+    "signal": "买入",
+    "fusion": "0.0031",
+    "current_price": "64.5700",
+    "volume_ratio": 0.71,
+    "timestamp": "2026-05-07 13:32:47",
+    "source": "thr"
+  },
+  {
+    "code": "301366",
+    "name": "一博科技",
+    "signal": "买入",
+    "fusion": "0.0013",
+    "current_price": "42.1500",
+    "volume_ratio": 0.06,
+    "timestamp": "2026-05-07 13:32:47",
+    "source": "thr"
+  },
+  {
+    "code": "301382",
+    "name": "蜂助手",
+    "signal": "买入",
+    "fusion": "-0.0295",
+    "current_price": "46.6200",
+    "volume_ratio": 0.86,
+    "timestamp": "2026-05-07 13:32:47",
+    "source": "thr"
+  },
+  {
+    "code": "301389",
+    "name": "隆扬电子",
+    "signal": "买入",
+    "fusion": "0.0158",
+    "current_price": "74.6400",
+    "volume_ratio": 2.89,
+    "timestamp": "2026-05-07 13:32:47",
+    "source": "thr"
+  },
+  {
+    "code": "301458",
+    "name": "钧崴电子",
+    "signal": "买入",
+    "fusion": "-0.0016",
+    "current_price": "42.6700",
+    "volume_ratio": 0.36,
+    "timestamp": "2026-05-07 13:32:47",
+    "source": "thr"
+  },
+  {
+    "code": "301536",
+    "name": "星宸科技",
+    "signal": "卖出",
+    "fusion": "-0.0025",
+    "current_price": "88.2300",
+    "volume_ratio": 0.1,
+    "timestamp": "2026-05-07 13:32:47",
+    "source": "thr"
+  }
+]

@@ -1,0 +1,8 @@
+{"ts": "2026-05-20 10:55:01", "code": "SZSE.300722", "name": "新余国科", "action": "SELL", "price": 26.2, "volume_ratio": 0.19, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:55:01", "code": "SZSE.301389", "name": "隆扬电子", "action": "BUY", "price": 71.23, "volume_ratio": 0.73, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:55:01", "code": "SHSE.688689", "name": "银河微电", "action": "SELL", "price": 44.11, "volume_ratio": 0.22, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:55:01", "code": "SZSE.300185", "name": "通裕重工", "action": "BUY", "price": 3.04, "volume_ratio": 0.09, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:55:01", "code": "SZSE.300722", "name": "新余国科", "action": "SELL", "price": 26.16, "volume_ratio": 0.02, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:55:01", "code": "SZSE.301389", "name": "隆扬电子", "action": "BUY", "price": 71.25, "volume_ratio": 0.38, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:55:01", "code": "SHSE.688689", "name": "银河微电", "action": "SELL", "price": 44.02, "volume_ratio": 0.23, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:55:01", "code": "SZSE.300185", "name": "通裕重工", "action": "BUY", "price": 3.06, "volume_ratio": 3.59, "source": "AlphaPilot_Email"}

@@ -1,0 +1,13 @@
+{"ts": "2026-05-19 10:19:08", "code": "SZSE.300722", "name": "新余国科", "action": "SELL", "price": 26.41, "volume_ratio": 0.0, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 10:19:08", "code": "SZSE.300468", "name": "四方精创", "action": "SELL", "price": 27.39, "volume_ratio": 0.14, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 10:19:08", "code": "SHSE.603353", "name": "和顺电气", "action": "SELL", "price": 47.1, "volume_ratio": 0.85, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 10:19:08", "code": "SZSE.300243", "name": "瑞丰光电", "action": "SELL", "price": 18.69, "volume_ratio": 0.07, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 10:19:08", "code": "SZSE.301220", "name": "亚香股份", "action": "BUY", "price": 41.61, "volume_ratio": 1.29, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 10:19:08", "code": "SZSE.300672", "name": "国科微", "action": "SELL", "price": 235.06, "volume_ratio": 0.44, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 10:19:08", "code": "SZSE.300722", "name": "新余国科", "action": "SELL", "price": 26.36, "volume_ratio": 0.02, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 10:19:08", "code": "SZSE.300259", "name": "新天科技", "action": "SELL", "price": 6.32, "volume_ratio": 0.67, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 10:19:08", "code": "SZSE.300468", "name": "四方精创", "action": "SELL", "price": 27.38, "volume_ratio": 0.24, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 10:19:08", "code": "SHSE.603538", "name": "美诺华", "action": "SELL", "price": 51.08, "volume_ratio": 0.68, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 10:19:08", "code": "SZSE.300243", "name": "瑞丰光电", "action": "SELL", "price": 18.66, "volume_ratio": 0.63, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 10:19:08", "code": "SZSE.002980", "name": "华盛昌", "action": "SELL", "price": 104.0, "volume_ratio": 0.66, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 10:19:08", "code": "SZSE.301220", "name": "亚香股份", "action": "BUY", "price": 41.63, "volume_ratio": 0.52, "source": "AlphaPilot_Email"}

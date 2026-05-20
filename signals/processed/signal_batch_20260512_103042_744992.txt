@@ -1,0 +1,17 @@
+{"ts": "2026-05-12 10:30:42", "code": "SZSE.300274", "name": "阳光电源", "action": "BUY", "price": 141.48, "volume_ratio": 0.08, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:30:42", "code": "SZSE.002506", "name": "协鑫集成", "action": "BUY", "price": 4.33, "volume_ratio": 0.26, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:30:42", "code": "SZSE.300285", "name": "国瓷材料", "action": "BUY", "price": 39.46, "volume_ratio": 0.65, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:30:42", "code": "SZSE.300228", "name": "富瑞特装", "action": "SELL", "price": 9.98, "volume_ratio": 0.75, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:30:42", "code": "SZSE.301071", "name": "力量钻石", "action": "SELL", "price": 54.57, "volume_ratio": 0.44, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:30:42", "code": "SZSE.300868", "name": "杰美特", "action": "SELL", "price": 97.87, "volume_ratio": 0.09, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:30:42", "code": "SZSE.300390", "name": "天华超净", "action": "SELL", "price": 101.25, "volume_ratio": 0.04, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:30:42", "code": "SZSE.300054", "name": "鼎龙股份", "action": "BUY", "price": 65.1, "volume_ratio": 0.17, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:30:42", "code": "SZSE.003035", "name": "南网能源", "action": "BUY", "price": 7.97, "volume_ratio": 0.0, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:30:42", "code": "SZSE.300677", "name": "英科医疗", "action": "SELL", "price": 53.3, "volume_ratio": 0.25, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:30:42", "code": "SZSE.300274", "name": "阳光电源", "action": "BUY", "price": 141.84, "volume_ratio": 0.26, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:30:42", "code": "SZSE.002506", "name": "协鑫集成", "action": "BUY", "price": 4.34, "volume_ratio": 0.22, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:30:42", "code": "SZSE.300285", "name": "国瓷材料", "action": "BUY", "price": 39.55, "volume_ratio": 2.16, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:30:42", "code": "SZSE.301071", "name": "力量钻石", "action": "SELL", "price": 54.4, "volume_ratio": 1.33, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:30:42", "code": "SZSE.300868", "name": "杰美特", "action": "SELL", "price": 97.73, "volume_ratio": 0.98, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:30:42", "code": "SZSE.300390", "name": "天华超净", "action": "SELL", "price": 100.79, "volume_ratio": 0.82, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:30:42", "code": "SZSE.300054", "name": "鼎龙股份", "action": "BUY", "price": 65.14, "volume_ratio": 0.02, "source": "AlphaPilot_Email"}

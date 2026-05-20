@@ -1,0 +1,14 @@
+{"ts": "2026-04-28 11:17:40", "code": "SZSE.300722", "name": "新余国科", "action": "BUY", "price": 27.97, "volume_ratio": 0.38, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 11:17:40", "code": "SZSE.300641", "name": "正丹股份", "action": "SELL", "price": 17.49, "volume_ratio": 0.12, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 11:17:40", "code": "SZSE.301389", "name": "隆扬电子", "action": "BUY", "price": 62.18, "volume_ratio": 0.2, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 11:17:40", "code": "SZSE.300468", "name": "四方精创", "action": "SELL", "price": 28.46, "volume_ratio": 0.67, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 11:17:40", "code": "SZSE.301449", "name": "天溯计量", "action": "BUY", "price": 70.8, "volume_ratio": 0.14, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 11:17:40", "code": "SHSE.688689", "name": "银河微电", "action": "SELL", "price": 39.22, "volume_ratio": 0.21, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 11:17:40", "code": "SZSE.301220", "name": "亚香股份", "action": "BUY", "price": 37.83, "volume_ratio": 1.88, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 11:17:40", "code": "SZSE.300722", "name": "新余国科", "action": "BUY", "price": 27.98, "volume_ratio": 0.08, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 11:17:40", "code": "SZSE.300641", "name": "正丹股份", "action": "SELL", "price": 17.42, "volume_ratio": 0.08, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 11:17:40", "code": "SZSE.301389", "name": "隆扬电子", "action": "BUY", "price": 62.22, "volume_ratio": 0.85, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 11:17:40", "code": "SZSE.300468", "name": "四方精创", "action": "SELL", "price": 28.45, "volume_ratio": 0.54, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 11:17:40", "code": "SZSE.301449", "name": "天溯计量", "action": "BUY", "price": 70.82, "volume_ratio": 0.24, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 11:17:40", "code": "SHSE.688689", "name": "银河微电", "action": "SELL", "price": 39.18, "volume_ratio": 0.07, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 11:17:40", "code": "SZSE.301220", "name": "亚香股份", "action": "BUY", "price": 37.84, "volume_ratio": 1.53, "source": "AlphaPilot_Email"}

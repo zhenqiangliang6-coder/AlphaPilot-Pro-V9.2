@@ -1,0 +1,6 @@
+{"ts": "2026-05-07 13:32:59", "code": "SZSE.002925", "name": "盈趣科技", "action": "BUY", "price": 21.15, "volume_ratio": 0.62, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:32:59", "code": "SZSE.002046", "name": "国机精工", "action": "SELL", "price": 56.02, "volume_ratio": 0.64, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:32:59", "code": "SZSE.000536", "name": "华映科技", "action": "SELL", "price": 4.05, "volume_ratio": 0.15, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:32:59", "code": "SZSE.002925", "name": "盈趣科技", "action": "BUY", "price": 21.18, "volume_ratio": 0.9, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:32:59", "code": "SZSE.002046", "name": "国机精工", "action": "SELL", "price": 55.95, "volume_ratio": 0.21, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:32:59", "code": "SZSE.000536", "name": "华映科技", "action": "SELL", "price": 4.04, "volume_ratio": 1.44, "source": "AlphaPilot_Email"}

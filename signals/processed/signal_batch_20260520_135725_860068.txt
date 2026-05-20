@@ -1,0 +1,14 @@
+{"ts": "2026-05-20 13:57:24", "code": "SHSE.603315", "name": "福鞍股份", "action": "SELL", "price": 17.21, "volume_ratio": 0.74, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 13:57:24", "code": "SHSE.603663", "name": "三祥新材", "action": "SELL", "price": 45.08, "volume_ratio": 0.07, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 13:57:24", "code": "SHSE.688018", "name": "乐鑫科技", "action": "BUY", "price": 186.99, "volume_ratio": 0.52, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 13:57:24", "code": "SHSE.688025", "name": "杰普特", "action": "BUY", "price": 398.9, "volume_ratio": 1.14, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 13:57:24", "code": "SHSE.688150", "name": "莱特光电", "action": "SELL", "price": 64.61, "volume_ratio": 0.2, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 13:57:24", "code": "SHSE.688295", "name": "中复神鹰", "action": "SELL", "price": 53.01, "volume_ratio": 0.02, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 13:57:24", "code": "SHSE.688313", "name": "仕佳光子", "action": "BUY", "price": 181.79, "volume_ratio": 0.73, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 13:57:24", "code": "SHSE.603315", "name": "福鞍股份", "action": "SELL", "price": 17.2, "volume_ratio": 0.28, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 13:57:24", "code": "SHSE.603663", "name": "三祥新材", "action": "SELL", "price": 44.95, "volume_ratio": 0.05, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 13:57:24", "code": "SHSE.688018", "name": "乐鑫科技", "action": "BUY", "price": 187.15, "volume_ratio": 0.23, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 13:57:24", "code": "SHSE.688025", "name": "杰普特", "action": "BUY", "price": 399.0, "volume_ratio": 0.05, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 13:57:24", "code": "SHSE.688150", "name": "莱特光电", "action": "SELL", "price": 64.6, "volume_ratio": 0.05, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 13:57:24", "code": "SHSE.688295", "name": "中复神鹰", "action": "SELL", "price": 52.99, "volume_ratio": 0.35, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 13:57:24", "code": "SHSE.688313", "name": "仕佳光子", "action": "BUY", "price": 181.88, "volume_ratio": 0.04, "source": "AlphaPilot_Email"}

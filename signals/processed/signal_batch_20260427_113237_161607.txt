@@ -1,0 +1,14 @@
+{"ts": "2026-04-27 11:32:37", "code": "SZSE.002475", "name": "立讯精密", "action": "BUY", "price": 71.61, "volume_ratio": 1.06, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 11:32:37", "code": "SZSE.000510", "name": "新金路", "action": "BUY", "price": 13.25, "volume_ratio": 0.07, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 11:32:37", "code": "SZSE.000536", "name": "华映科技", "action": "BUY", "price": 3.94, "volume_ratio": 1.14, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 11:32:37", "code": "SZSE.002828", "name": "贝肯能源", "action": "BUY", "price": 11.64, "volume_ratio": 0.05, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 11:32:37", "code": "SZSE.002240", "name": "盛新锂能", "action": "BUY", "price": 52.34, "volume_ratio": 0.41, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 11:32:37", "code": "SZSE.300693", "name": "盛弘股份", "action": "BUY", "price": 48.73, "volume_ratio": 0.08, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 11:32:37", "code": "SZSE.001309", "name": "德利明", "action": "BUY", "price": 486.1, "volume_ratio": 0.53, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 11:32:37", "code": "SZSE.002475", "name": "立讯精密", "action": "BUY", "price": 71.81, "volume_ratio": 0.55, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 11:32:37", "code": "SZSE.000510", "name": "新金路", "action": "BUY", "price": 13.26, "volume_ratio": 0.23, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 11:32:37", "code": "SZSE.000536", "name": "华映科技", "action": "BUY", "price": 3.95, "volume_ratio": 0.42, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 11:32:37", "code": "SZSE.002828", "name": "贝肯能源", "action": "BUY", "price": 11.65, "volume_ratio": 1.13, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 11:32:37", "code": "SZSE.002240", "name": "盛新锂能", "action": "BUY", "price": 52.4, "volume_ratio": 0.48, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 11:32:37", "code": "SZSE.300693", "name": "盛弘股份", "action": "BUY", "price": 48.75, "volume_ratio": 0.38, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 11:32:37", "code": "SZSE.001309", "name": "德利明", "action": "BUY", "price": 487.01, "volume_ratio": 0.56, "source": "AlphaPilot_Email"}

@@ -1,0 +1,8 @@
+{"ts": "2026-05-07 11:21:25", "code": "SZSE.300722", "name": "新余国科", "action": "SELL", "price": 28.45, "volume_ratio": 0.22, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 11:21:25", "code": "SZSE.301389", "name": "隆扬电子", "action": "SELL", "price": 70.85, "volume_ratio": 3.96, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 11:21:25", "code": "SZSE.301449", "name": "天溯计量", "action": "BUY", "price": 69.85, "volume_ratio": 0.15, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 11:21:25", "code": "SZSE.300243", "name": "瑞丰光电", "action": "BUY", "price": 18.48, "volume_ratio": 0.22, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 11:21:25", "code": "SZSE.300722", "name": "新余国科", "action": "SELL", "price": 28.43, "volume_ratio": 0.5, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 11:21:25", "code": "SZSE.301389", "name": "隆扬电子", "action": "SELL", "price": 70.23, "volume_ratio": 3.45, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 11:21:25", "code": "SZSE.301449", "name": "天溯计量", "action": "BUY", "price": 69.93, "volume_ratio": 0.67, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 11:21:25", "code": "SZSE.300243", "name": "瑞丰光电", "action": "BUY", "price": 18.49, "volume_ratio": 0.06, "source": "AlphaPilot_Email"}

@@ -1,0 +1,8 @@
+{"ts": "2026-05-12 10:43:56", "code": "SZSE.300285", "name": "国瓷材料", "action": "BUY", "price": 39.17, "volume_ratio": 0.67, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:43:56", "code": "SZSE.002015", "name": "协鑫能科", "action": "SELL", "price": 21.17, "volume_ratio": 0.06, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:43:56", "code": "SZSE.300345", "name": "华民股份", "action": "SELL", "price": 7.25, "volume_ratio": 0.31, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:43:56", "code": "SZSE.300866", "name": "安克创新", "action": "BUY", "price": 127.99, "volume_ratio": 0.04, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:43:56", "code": "SZSE.300285", "name": "国瓷材料", "action": "BUY", "price": 39.65, "volume_ratio": 4.64, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:43:56", "code": "SZSE.002015", "name": "协鑫能科", "action": "SELL", "price": 21.13, "volume_ratio": 0.03, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:43:56", "code": "SZSE.300345", "name": "华民股份", "action": "SELL", "price": 7.24, "volume_ratio": 0.32, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:43:56", "code": "SZSE.300866", "name": "安克创新", "action": "BUY", "price": 128.08, "volume_ratio": 0.01, "source": "AlphaPilot_Email"}

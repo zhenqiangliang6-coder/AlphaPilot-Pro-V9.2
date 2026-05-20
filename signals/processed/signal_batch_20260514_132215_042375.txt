@@ -1,0 +1,14 @@
+{"ts": "2026-05-14 13:22:15", "code": "SZSE.002460", "name": "赣锋锂业", "action": "BUY", "price": 81.54, "volume_ratio": 2.49, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 13:22:15", "code": "SZSE.002925", "name": "盈趣科技", "action": "SELL", "price": 20.91, "volume_ratio": 0.14, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 13:22:15", "code": "SZSE.002046", "name": "国机精工", "action": "BUY", "price": 58.57, "volume_ratio": 0.02, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 13:22:15", "code": "SZSE.000407", "name": "胜利股份", "action": "BUY", "price": 4.49, "volume_ratio": 0.01, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 13:22:15", "code": "SZSE.000536", "name": "华映科技", "action": "BUY", "price": 4.02, "volume_ratio": 0.56, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 13:22:15", "code": "SHSE.688331", "name": "荣昌生物", "action": "BUY", "price": 116.59, "volume_ratio": 0.09, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 13:22:15", "code": "SZSE.000592", "name": "平潭发展", "action": "SELL", "price": 11.98, "volume_ratio": 0.19, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 13:22:15", "code": "SZSE.002460", "name": "赣锋锂业", "action": "BUY", "price": 82.51, "volume_ratio": 1.51, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 13:22:15", "code": "SZSE.002925", "name": "盈趣科技", "action": "SELL", "price": 20.87, "volume_ratio": 1.12, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 13:22:15", "code": "SZSE.002046", "name": "国机精工", "action": "BUY", "price": 58.82, "volume_ratio": 2.93, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 13:22:15", "code": "SZSE.000407", "name": "胜利股份", "action": "BUY", "price": 4.5, "volume_ratio": 0.05, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 13:22:15", "code": "SZSE.000536", "name": "华映科技", "action": "BUY", "price": 4.03, "volume_ratio": 0.5, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 13:22:15", "code": "SHSE.688331", "name": "荣昌生物", "action": "BUY", "price": 116.8, "volume_ratio": 0.08, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 13:22:15", "code": "SZSE.000592", "name": "平潭发展", "action": "SELL", "price": 11.94, "volume_ratio": 0.14, "source": "AlphaPilot_Email"}

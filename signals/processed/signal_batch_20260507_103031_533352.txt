@@ -1,0 +1,17 @@
+{"ts": "2026-05-07 10:30:31", "code": "SZSE.301171", "name": "易点天下", "action": "BUY", "price": 37.01, "volume_ratio": 2.88, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:30:31", "code": "SHSE.600989", "name": "宝丰能源", "action": "BUY", "price": 28.28, "volume_ratio": 1.15, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:30:31", "code": "SZSE.002506", "name": "协鑫集成", "action": "BUY", "price": 4.44, "volume_ratio": 0.0, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:30:31", "code": "SZSE.300643", "name": "万通智控", "action": "BUY", "price": 18.2, "volume_ratio": 3.69, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:30:31", "code": "SZSE.300390", "name": "天华超净", "action": "BUY", "price": 108.62, "volume_ratio": 0.68, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:30:31", "code": "SZSE.300953", "name": "震裕科技", "action": "BUY", "price": 234.18, "volume_ratio": 0.26, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:30:31", "code": "SZSE.300568", "name": "星源材质", "action": "SELL", "price": 16.94, "volume_ratio": 1.48, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:30:31", "code": "SZSE.300054", "name": "鼎龙股份", "action": "SELL", "price": 67.54, "volume_ratio": 0.38, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:30:31", "code": "SHSE.600989", "name": "宝丰能源", "action": "BUY", "price": 28.35, "volume_ratio": 0.32, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:30:31", "code": "SZSE.300207", "name": "欣旺达", "action": "BUY", "price": 27.23, "volume_ratio": 0.25, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:30:31", "code": "SZSE.300274", "name": "阳光电源", "action": "SELL", "price": 138.68, "volume_ratio": 0.21, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:30:31", "code": "SZSE.002506", "name": "协鑫集成", "action": "BUY", "price": 4.44, "volume_ratio": 0.09, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:30:31", "code": "SZSE.301278", "name": "快克股份", "action": "BUY", "price": 40.19, "volume_ratio": 1.74, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:30:31", "code": "SZSE.300390", "name": "天华超净", "action": "BUY", "price": 109.09, "volume_ratio": 0.8, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:30:31", "code": "SZSE.300953", "name": "震裕科技", "action": "BUY", "price": 235.14, "volume_ratio": 0.19, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:30:31", "code": "SZSE.300568", "name": "星源材质", "action": "SELL", "price": 16.92, "volume_ratio": 0.04, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:30:31", "code": "SZSE.300054", "name": "鼎龙股份", "action": "SELL", "price": 67.29, "volume_ratio": 0.02, "source": "AlphaPilot_Email"}

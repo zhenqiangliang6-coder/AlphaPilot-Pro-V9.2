@@ -1,0 +1,132 @@
+[
+  {
+    "code": "002875",
+    "name": "安奈儿",
+    "signal": "买入",
+    "fusion": "-0.0434",
+    "current_price": "24.2300",
+    "volume_ratio": 0.47,
+    "timestamp": "2026-05-07 13:29:52",
+    "source": "thr"
+  },
+  {
+    "code": "002940",
+    "name": "昂利康",
+    "signal": "卖出",
+    "fusion": "-0.0265",
+    "current_price": "32.6200",
+    "volume_ratio": 1.48,
+    "timestamp": "2026-05-07 13:29:52",
+    "source": "thr"
+  },
+  {
+    "code": "300083",
+    "name": "创世纪",
+    "signal": "卖出",
+    "fusion": "0.0019",
+    "current_price": "10.1500",
+    "volume_ratio": 0.34,
+    "timestamp": "2026-05-07 13:29:52",
+    "source": "thr"
+  },
+  {
+    "code": "300801",
+    "name": "泰和科技",
+    "signal": "买入",
+    "fusion": "-0.0055",
+    "current_price": "30.7700",
+    "volume_ratio": 0.1,
+    "timestamp": "2026-05-07 13:29:52",
+    "source": "thr"
+  },
+  {
+    "code": "301110",
+    "name": "青木科技",
+    "signal": "买入",
+    "fusion": "-0.0187",
+    "current_price": "70.0000",
+    "volume_ratio": 1.92,
+    "timestamp": "2026-05-07 13:29:52",
+    "source": "thr"
+  },
+  {
+    "code": "002875",
+    "name": "安奈儿",
+    "signal": "买入",
+    "fusion": "-0.0166",
+    "current_price": "24.2600",
+    "volume_ratio": 1.51,
+    "timestamp": "2026-05-07 13:29:52",
+    "source": "thr"
+  },
+  {
+    "code": "002940",
+    "name": "昂利康",
+    "signal": "卖出",
+    "fusion": "-0.0251",
+    "current_price": "32.6000",
+    "volume_ratio": 0.77,
+    "timestamp": "2026-05-07 13:29:52",
+    "source": "thr"
+  },
+  {
+    "code": "300012",
+    "name": "华测检测",
+    "signal": "卖出",
+    "fusion": "-0.0014",
+    "current_price": "16.4400",
+    "volume_ratio": 0.14,
+    "timestamp": "2026-05-07 13:29:52",
+    "source": "thr"
+  },
+  {
+    "code": "300083",
+    "name": "创世纪",
+    "signal": "卖出",
+    "fusion": "0.0024",
+    "current_price": "10.1300",
+    "volume_ratio": 0.46,
+    "timestamp": "2026-05-07 13:29:52",
+    "source": "thr"
+  },
+  {
+    "code": "300342",
+    "name": "天银机电",
+    "signal": "买入",
+    "fusion": "0.0022",
+    "current_price": "64.8700",
+    "volume_ratio": 1.27,
+    "timestamp": "2026-05-07 13:29:52",
+    "source": "thr"
+  },
+  {
+    "code": "300570",
+    "name": "太辰光",
+    "signal": "卖出",
+    "fusion": "-0.0024",
+    "current_price": "152.4100",
+    "volume_ratio": 0.18,
+    "timestamp": "2026-05-07 13:29:52",
+    "source": "thr"
+  },
+  {
+    "code": "300801",
+    "name": "泰和科技",
+    "signal": "买入",
+    "fusion": "-0.0083",
+    "current_price": "30.7800",
+    "volume_ratio": 1.21,
+    "timestamp": "2026-05-07 13:29:52",
+    "source": "thr"
+  },
+  {
+    "code": "301110",
+    "name": "青木科技",
+    "signal": "买入",
+    "fusion": "-0.0071",
+    "current_price": "70.6500",
+    "volume_ratio": 7.32,
+    "timestamp": "2026-05-07 13:29:52",
+    "source": "thr"
+  }
+]

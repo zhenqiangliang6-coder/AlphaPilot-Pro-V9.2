@@ -1,0 +1,8 @@
+{"ts": "2026-04-28 11:22:33", "code": "SZSE.000958", "name": "电投产融", "action": "SELL", "price": 5.86, "volume_ratio": 5.1, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 11:22:33", "code": "SZSE.002015", "name": "协鑫能科", "action": "BUY", "price": 18.45, "volume_ratio": 0.79, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 11:22:33", "code": "SHSE.601016", "name": "节能风电", "action": "BUY", "price": 4.53, "volume_ratio": 0.08, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 11:22:33", "code": "SZSE.300866", "name": "安克创新", "action": "BUY", "price": 121.45, "volume_ratio": 0.04, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 11:22:33", "code": "SZSE.000958", "name": "电投产融", "action": "SELL", "price": 5.84, "volume_ratio": 1.39, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 11:22:33", "code": "SZSE.002015", "name": "协鑫能科", "action": "BUY", "price": 18.52, "volume_ratio": 0.31, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 11:22:33", "code": "SHSE.601016", "name": "节能风电", "action": "BUY", "price": 4.54, "volume_ratio": 0.34, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 11:22:33", "code": "SZSE.300866", "name": "安克创新", "action": "BUY", "price": 121.65, "volume_ratio": 0.09, "source": "AlphaPilot_Email"}

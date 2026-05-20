@@ -1,0 +1,11 @@
+{"ts": "2026-05-12 11:03:39", "code": "SHSE.603083", "name": "剑桥科技", "action": "BUY", "price": 191.35, "volume_ratio": 2.39, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 11:03:39", "code": "SHSE.603315", "name": "福鞍股份", "action": "SELL", "price": 19.27, "volume_ratio": 0.02, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 11:03:39", "code": "SHSE.605100", "name": "华丰股份", "action": "BUY", "price": 52.68, "volume_ratio": 1.1, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 11:03:39", "code": "SHSE.688018", "name": "乐鑫科技", "action": "SELL", "price": 175.92, "volume_ratio": 0.33, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 11:03:39", "code": "SHSE.688025", "name": "杰普特", "action": "SELL", "price": 363.99, "volume_ratio": 0.39, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 11:03:39", "code": "SHSE.603083", "name": "剑桥科技", "action": "BUY", "price": 192.25, "volume_ratio": 0.22, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 11:03:39", "code": "SHSE.603178", "name": "圣龙股份", "action": "SELL", "price": 19.73, "volume_ratio": 0.44, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 11:03:39", "code": "SHSE.603315", "name": "福鞍股份", "action": "SELL", "price": 19.21, "volume_ratio": 0.74, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 11:03:39", "code": "SHSE.605100", "name": "华丰股份", "action": "BUY", "price": 52.71, "volume_ratio": 3.42, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 11:03:39", "code": "SHSE.688018", "name": "乐鑫科技", "action": "SELL", "price": 175.88, "volume_ratio": 0.28, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 11:03:39", "code": "SHSE.688025", "name": "杰普特", "action": "SELL", "price": 363.54, "volume_ratio": 0.29, "source": "AlphaPilot_Email"}

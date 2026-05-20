@@ -1,0 +1,10 @@
+{"ts": "2026-05-18 11:13:06", "code": "SZSE.002498", "name": "汉缆股份", "action": "BUY", "price": 9.7, "volume_ratio": 0.03, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 11:13:06", "code": "SZSE.002364", "name": "中恒电器", "action": "BUY", "price": 49.71, "volume_ratio": 0.89, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 11:13:06", "code": "SZSE.002298", "name": "中电鑫龙", "action": "SELL", "price": 11.68, "volume_ratio": 4.17, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 11:13:06", "code": "SZSE.300048", "name": "合康新能", "action": "BUY", "price": 6.21, "volume_ratio": 0.13, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 11:13:06", "code": "SZSE.000536", "name": "华映科技", "action": "BUY", "price": 3.88, "volume_ratio": 0.12, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 11:13:06", "code": "SZSE.002498", "name": "汉缆股份", "action": "BUY", "price": 9.74, "volume_ratio": 2.05, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 11:13:06", "code": "SZSE.002364", "name": "中恒电器", "action": "BUY", "price": 49.95, "volume_ratio": 1.63, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 11:13:06", "code": "SZSE.002298", "name": "中电鑫龙", "action": "SELL", "price": 11.63, "volume_ratio": 0.08, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 11:13:06", "code": "SZSE.300048", "name": "合康新能", "action": "BUY", "price": 6.22, "volume_ratio": 3.18, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 11:13:06", "code": "SZSE.000536", "name": "华映科技", "action": "BUY", "price": 3.9, "volume_ratio": 2.01, "source": "AlphaPilot_Email"}

@@ -1,0 +1,2 @@
+{"ts": "2026-05-14 11:36:53", "code": "SZSE.301158", "name": "万集科技", "action": "BUY", "price": 27.18, "volume_ratio": 0.25, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 11:36:53", "code": "SZSE.301158", "name": "万集科技", "action": "BUY", "price": 27.2, "volume_ratio": 0.39, "source": "AlphaPilot_Email"}

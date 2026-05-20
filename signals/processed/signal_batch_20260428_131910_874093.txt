@@ -1,0 +1,14 @@
+{"ts": "2026-04-28 13:19:10", "code": "SZSE.300037", "name": "新宙邦", "action": "BUY", "price": 66.92, "volume_ratio": 1.24, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 13:19:10", "code": "SZSE.300274", "name": "阳光电源", "action": "BUY", "price": 130.9, "volume_ratio": 0.08, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 13:19:10", "code": "SZSE.002506", "name": "协鑫集成", "action": "SELL", "price": 4.36, "volume_ratio": 0.11, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 13:19:10", "code": "SZSE.301071", "name": "力量钻石", "action": "BUY", "price": 51.82, "volume_ratio": 1.05, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 13:19:10", "code": "SZSE.300390", "name": "天华超净", "action": "BUY", "price": 92.88, "volume_ratio": 0.32, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 13:19:10", "code": "SZSE.300953", "name": "震裕科技", "action": "SELL", "price": 213.71, "volume_ratio": 0.21, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 13:19:10", "code": "SZSE.300054", "name": "鼎龙股份", "action": "BUY", "price": 59.31, "volume_ratio": 0.18, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 13:19:10", "code": "SZSE.300037", "name": "新宙邦", "action": "BUY", "price": 66.97, "volume_ratio": 0.51, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 13:19:10", "code": "SZSE.300274", "name": "阳光电源", "action": "BUY", "price": 131.32, "volume_ratio": 0.59, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 13:19:10", "code": "SZSE.002506", "name": "协鑫集成", "action": "SELL", "price": 4.35, "volume_ratio": 0.25, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 13:19:10", "code": "SZSE.301071", "name": "力量钻石", "action": "BUY", "price": 51.92, "volume_ratio": 0.78, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 13:19:10", "code": "SZSE.300390", "name": "天华超净", "action": "BUY", "price": 93.06, "volume_ratio": 0.67, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 13:19:10", "code": "SZSE.300953", "name": "震裕科技", "action": "SELL", "price": 213.31, "volume_ratio": 3.1, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 13:19:10", "code": "SZSE.300054", "name": "鼎龙股份", "action": "BUY", "price": 59.7, "volume_ratio": 0.41, "source": "AlphaPilot_Email"}

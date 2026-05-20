@@ -1,0 +1,202 @@
+[
+  {
+    "code": "600032",
+    "name": "浙江新能",
+    "signal": "买入",
+    "fusion": "0.0078",
+    "current_price": "10.5000",
+    "volume_ratio": 0.03,
+    "timestamp": "2026-05-07 13:41:41",
+    "source": "thr"
+  },
+  {
+    "code": "600103",
+    "name": "青山纸业",
+    "signal": "买入",
+    "fusion": "-0.0485",
+    "current_price": "4.8200",
+    "volume_ratio": 0.41,
+    "timestamp": "2026-05-07 13:41:41",
+    "source": "thr"
+  },
+  {
+    "code": "600498",
+    "name": "烽火通信",
+    "signal": "买入",
+    "fusion": "0.0064",
+    "current_price": "50.5700",
+    "volume_ratio": 0.2,
+    "timestamp": "2026-05-07 13:41:41",
+    "source": "thr"
+  },
+  {
+    "code": "600520",
+    "name": "三佳科技",
+    "signal": "卖出",
+    "fusion": "-0.0038",
+    "current_price": "30.2600",
+    "volume_ratio": 2.15,
+    "timestamp": "2026-05-07 13:41:41",
+    "source": "thr"
+  },
+  {
+    "code": "600590",
+    "name": "泰豪科技",
+    "signal": "卖出",
+    "fusion": "0.0428",
+    "current_price": "16.9300",
+    "volume_ratio": 0.61,
+    "timestamp": "2026-05-07 13:41:41",
+    "source": "thr"
+  },
+  {
+    "code": "600699",
+    "name": "均胜电子",
+    "signal": "买入",
+    "fusion": "0.1012",
+    "current_price": "29.3900",
+    "volume_ratio": 0.49,
+    "timestamp": "2026-05-07 13:41:41",
+    "source": "thr"
+  },
+  {
+    "code": "600979",
+    "name": "广安爱众",
+    "signal": "买入",
+    "fusion": "0.0130",
+    "current_price": "5.2200",
+    "volume_ratio": 0.05,
+    "timestamp": "2026-05-07 13:41:41",
+    "source": "thr"
+  },
+  {
+    "code": "603025",
+    "name": "大豪科技",
+    "signal": "卖出",
+    "fusion": "0.0040",
+    "current_price": "16.7000",
+    "volume_ratio": 1.95,
+    "timestamp": "2026-05-07 13:41:41",
+    "source": "thr"
+  },
+  {
+    "code": "603032",
+    "name": "德新科技",
+    "signal": "买入",
+    "fusion": "0.0216",
+    "current_price": "24.1000",
+    "volume_ratio": 0.17,
+    "timestamp": "2026-05-07 13:41:41",
+    "source": "thr"
+  },
+  {
+    "code": "603052",
+    "name": "可川科技",
+    "signal": "卖出",
+    "fusion": "0.1131",
+    "current_price": "86.7400",
+    "volume_ratio": 0.69,
+    "timestamp": "2026-05-07 13:41:41",
+    "source": "thr"
+  },
+  {
+    "code": "603057",
+    "name": "紫燕食品",
+    "signal": "买入",
+    "fusion": "0.0014",
+    "current_price": "28.7500",
+    "volume_ratio": 0.01,
+    "timestamp": "2026-05-07 13:41:41",
+    "source": "thr"
+  },
+  {
+    "code": "600032",
+    "name": "浙江新能",
+    "signal": "买入",
+    "fusion": "0.0075",
+    "current_price": "10.5000",
+    "volume_ratio": 0.14,
+    "timestamp": "2026-05-07 13:41:41",
+    "source": "thr"
+  },
+  {
+    "code": "600103",
+    "name": "青山纸业",
+    "signal": "买入",
+    "fusion": "-0.0398",
+    "current_price": "4.8300",
+    "volume_ratio": 0.27,
+    "timestamp": "2026-05-07 13:41:41",
+    "source": "thr"
+  },
+  {
+    "code": "600498",
+    "name": "烽火通信",
+    "signal": "买入",
+    "fusion": "0.0047",
+    "current_price": "50.7600",
+    "volume_ratio": 2.2,
+    "timestamp": "2026-05-07 13:41:41",
+    "source": "thr"
+  },
+  {
+    "code": "600520",
+    "name": "三佳科技",
+    "signal": "卖出",
+    "fusion": "-0.0028",
+    "current_price": "30.2600",
+    "volume_ratio": 0.24,
+    "timestamp": "2026-05-07 13:41:41",
+    "source": "thr"
+  },
+  {
+    "code": "600590",
+    "name": "泰豪科技",
+    "signal": "卖出",
+    "fusion": "0.0448",
+    "current_price": "16.9100",
+    "volume_ratio": 0.79,
+    "timestamp": "2026-05-07 13:41:41",
+    "source": "thr"
+  },
+  {
+    "code": "600699",
+    "name": "均胜电子",
+    "signal": "买入",
+    "fusion": "0.0988",
+    "current_price": "29.4000",
+    "volume_ratio": 0.97,
+    "timestamp": "2026-05-07 13:41:41",
+    "source": "thr"
+  },
+  {
+    "code": "603025",
+    "name": "大豪科技",
+    "signal": "卖出",
+    "fusion": "0.0048",
+    "current_price": "16.6900",
+    "volume_ratio": 0.19,
+    "timestamp": "2026-05-07 13:41:41",
+    "source": "thr"
+  },
+  {
+    "code": "603032",
+    "name": "德新科技",
+    "signal": "买入",
+    "fusion": "0.0225",
+    "current_price": "24.1100",
+    "volume_ratio": 0.23,
+    "timestamp": "2026-05-07 13:41:41",
+    "source": "thr"
+  },
+  {
+    "code": "603052",
+    "name": "可川科技",
+    "signal": "卖出",
+    "fusion": "0.1213",
+    "current_price": "86.6300",
+    "volume_ratio": 0.05,
+    "timestamp": "2026-05-07 13:41:41",
+    "source": "thr"
+  }
+]

@@ -1,0 +1,4 @@
+{"ts": "2026-05-18 10:55:47", "code": "SZSE.300468", "name": "四方精创", "action": "SELL", "price": 27.71, "volume_ratio": 0.66, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 10:55:47", "code": "SZSE.301220", "name": "亚香股份", "action": "SELL", "price": 40.93, "volume_ratio": 0.02, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 10:55:47", "code": "SZSE.300468", "name": "四方精创", "action": "SELL", "price": 27.63, "volume_ratio": 0.69, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 10:55:47", "code": "SZSE.301220", "name": "亚香股份", "action": "SELL", "price": 40.9, "volume_ratio": 3.01, "source": "AlphaPilot_Email"}

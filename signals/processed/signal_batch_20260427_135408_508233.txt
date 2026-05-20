@@ -1,0 +1,15 @@
+{"ts": "2026-04-27 13:54:08", "code": "SZSE.300722", "name": "新余国科", "action": "BUY", "price": 28.16, "volume_ratio": 0.12, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 13:54:08", "code": "SZSE.300385", "name": "雪浪环境", "action": "BUY", "price": 15.35, "volume_ratio": 0.26, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 13:54:08", "code": "SHSE.603353", "name": "和顺电气", "action": "BUY", "price": 36.88, "volume_ratio": 1.18, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 13:54:08", "code": "SZSE.002980", "name": "华盛昌", "action": "BUY", "price": 80.19, "volume_ratio": 0.16, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 13:54:08", "code": "SZSE.000677", "name": "恒立实业", "action": "BUY", "price": 3.82, "volume_ratio": 0.74, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 13:54:08", "code": "SZSE.301220", "name": "亚香股份", "action": "SELL", "price": 38.69, "volume_ratio": 2.93, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 13:54:08", "code": "SZSE.300722", "name": "新余国科", "action": "BUY", "price": 28.17, "volume_ratio": 0.36, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 13:54:08", "code": "SZSE.300259", "name": "新天科技", "action": "BUY", "price": 4.53, "volume_ratio": 6.98, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 13:54:08", "code": "SZSE.300739", "name": "明阳电路", "action": "BUY", "price": 28.8, "volume_ratio": 2.15, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 13:54:08", "code": "SZSE.300385", "name": "雪浪环境", "action": "BUY", "price": 15.38, "volume_ratio": 0.42, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 13:54:08", "code": "SHSE.688700", "name": "东威科技", "action": "BUY", "price": 66.8, "volume_ratio": 0.03, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 13:54:08", "code": "SZSE.000677", "name": "恒立实业", "action": "BUY", "price": 3.83, "volume_ratio": 0.16, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 13:54:08", "code": "SZSE.301220", "name": "亚香股份", "action": "SELL", "price": 38.68, "volume_ratio": 0.08, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 13:54:08", "code": "SZSE.300185", "name": "通裕重工", "action": "BUY", "price": 3.2, "volume_ratio": 0.09, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 13:54:08", "code": "SZSE.300672", "name": "国科微", "action": "BUY", "price": 175.31, "volume_ratio": 2.18, "source": "AlphaPilot_Email"}

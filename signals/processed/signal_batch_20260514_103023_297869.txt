@@ -1,0 +1,16 @@
+{"ts": "2026-05-14 10:30:23", "code": "SZSE.300285", "name": "国瓷材料", "action": "BUY", "price": 41.12, "volume_ratio": 5.28, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 10:30:23", "code": "SZSE.002015", "name": "协鑫能科", "action": "BUY", "price": 24.29, "volume_ratio": 0.39, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 10:30:23", "code": "SZSE.000533", "name": "顺钠股份", "action": "SELL", "price": 14.96, "volume_ratio": 2.11, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 10:30:23", "code": "SZSE.300345", "name": "华民股份", "action": "SELL", "price": 7.27, "volume_ratio": 0.53, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 10:30:23", "code": "SHSE.601868", "name": "中国能建", "action": "SELL", "price": 3.35, "volume_ratio": 0.46, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 10:30:23", "code": "SHSE.600821", "name": "金发科技", "action": "SELL", "price": 9.54, "volume_ratio": 0.67, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 10:30:23", "code": "SHSE.601016", "name": "节能风电", "action": "SELL", "price": 5.47, "volume_ratio": 0.57, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 10:30:23", "code": "SZSE.300782", "name": "卓胜微", "action": "SELL", "price": 133.18, "volume_ratio": 0.69, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 10:30:23", "code": "SZSE.300195", "name": "长荣股份", "action": "BUY", "price": 6.87, "volume_ratio": 0.11, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 10:30:23", "code": "SZSE.300285", "name": "国瓷材料", "action": "BUY", "price": 41.19, "volume_ratio": 1.05, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 10:30:23", "code": "SZSE.002015", "name": "协鑫能科", "action": "BUY", "price": 24.32, "volume_ratio": 0.69, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 10:30:23", "code": "SZSE.000533", "name": "顺钠股份", "action": "SELL", "price": 14.96, "volume_ratio": 0.27, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 10:30:23", "code": "SZSE.301667", "name": "纳百川", "action": "BUY", "price": 104.68, "volume_ratio": 0.1, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 10:30:23", "code": "SZSE.300345", "name": "华民股份", "action": "SELL", "price": 7.25, "volume_ratio": 0.1, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 10:30:23", "code": "SHSE.601868", "name": "中国能建", "action": "SELL", "price": 3.35, "volume_ratio": 0.24, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 10:30:23", "code": "SHSE.601016", "name": "节能风电", "action": "SELL", "price": 5.44, "volume_ratio": 0.47, "source": "AlphaPilot_Email"}

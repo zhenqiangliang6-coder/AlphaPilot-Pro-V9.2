@@ -1,0 +1,14 @@
+{"ts": "2026-05-20 10:40:28", "code": "SZSE.300722", "name": "新余国科", "action": "BUY", "price": 26.25, "volume_ratio": 0.26, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:40:28", "code": "SZSE.301389", "name": "隆扬电子", "action": "SELL", "price": 71.67, "volume_ratio": 0.02, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:40:28", "code": "SHSE.688700", "name": "东威科技", "action": "BUY", "price": 73.46, "volume_ratio": 0.06, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:40:28", "code": "SHSE.688689", "name": "银河微电", "action": "SELL", "price": 44.02, "volume_ratio": 0.08, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:40:28", "code": "SHSE.603538", "name": "美诺华", "action": "BUY", "price": 51.94, "volume_ratio": 1.18, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:40:28", "code": "SZSE.300185", "name": "通裕重工", "action": "BUY", "price": 3.05, "volume_ratio": 0.09, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:40:28", "code": "SZSE.300672", "name": "国科微", "action": "BUY", "price": 246.53, "volume_ratio": 0.27, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:40:28", "code": "SZSE.300722", "name": "新余国科", "action": "BUY", "price": 26.28, "volume_ratio": 0.14, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:40:28", "code": "SZSE.301389", "name": "隆扬电子", "action": "SELL", "price": 71.45, "volume_ratio": 0.34, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:40:28", "code": "SHSE.688700", "name": "东威科技", "action": "BUY", "price": 73.52, "volume_ratio": 0.04, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:40:28", "code": "SHSE.688689", "name": "银河微电", "action": "SELL", "price": 44.01, "volume_ratio": 0.17, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:40:28", "code": "SHSE.603538", "name": "美诺华", "action": "BUY", "price": 52.04, "volume_ratio": 0.75, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:40:28", "code": "SZSE.300185", "name": "通裕重工", "action": "BUY", "price": 3.06, "volume_ratio": 0.42, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:40:28", "code": "SZSE.300672", "name": "国科微", "action": "BUY", "price": 246.83, "volume_ratio": 0.26, "source": "AlphaPilot_Email"}

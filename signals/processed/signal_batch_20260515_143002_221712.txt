@@ -1,0 +1,15 @@
+{"ts": "2026-05-15 14:30:01", "code": "SHSE.603083", "name": "剑桥科技", "action": "SELL", "price": 188.4, "volume_ratio": 0.22, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 14:30:01", "code": "SHSE.603178", "name": "圣龙股份", "action": "BUY", "price": 22.24, "volume_ratio": 0.14, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 14:30:01", "code": "SHSE.603315", "name": "福鞍股份", "action": "SELL", "price": 18.97, "volume_ratio": 0.64, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 14:30:01", "code": "SHSE.603663", "name": "三祥新材", "action": "SELL", "price": 42.84, "volume_ratio": 1.9, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 14:30:01", "code": "SHSE.605060", "name": "联德股份", "action": "SELL", "price": 56.81, "volume_ratio": 0.15, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 14:30:01", "code": "SHSE.688025", "name": "杰普特", "action": "SELL", "price": 396.04, "volume_ratio": 0.41, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 14:30:01", "code": "SHSE.688337", "name": "普源精电", "action": "SELL", "price": 61.44, "volume_ratio": 0.75, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 14:30:01", "code": "SHSE.603083", "name": "剑桥科技", "action": "SELL", "price": 187.65, "volume_ratio": 0.65, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 14:30:01", "code": "SHSE.603699", "name": "纽威股份", "action": "SELL", "price": 64.88, "volume_ratio": 0.87, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 14:30:01", "code": "SHSE.605060", "name": "联德股份", "action": "SELL", "price": 56.72, "volume_ratio": 0.32, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 14:30:01", "code": "SHSE.688018", "name": "乐鑫科技", "action": "SELL", "price": 176.97, "volume_ratio": 0.25, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 14:30:01", "code": "SHSE.688025", "name": "杰普特", "action": "SELL", "price": 395.0, "volume_ratio": 0.08, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 14:30:01", "code": "SHSE.688295", "name": "中复神鹰", "action": "SELL", "price": 54.49, "volume_ratio": 0.04, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 14:30:01", "code": "SHSE.688307", "name": "中润光学", "action": "BUY", "price": 126.8, "volume_ratio": 1.27, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 14:30:01", "code": "SHSE.688337", "name": "普源精电", "action": "SELL", "price": 61.41, "volume_ratio": 0.69, "source": "AlphaPilot_Email"}

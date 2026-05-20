@@ -1,0 +1,12 @@
+{"ts": "2026-05-13 14:35:43", "code": "SZSE.002445", "name": "中南文化", "action": "SELL", "price": 4.01, "volume_ratio": 0.33, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 14:35:43", "code": "SHSE.601868", "name": "中国能建", "action": "BUY", "price": 3.5, "volume_ratio": 1.57, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 14:35:43", "code": "SZSE.300724", "name": "捷佳伟创", "action": "BUY", "price": 92.92, "volume_ratio": 0.31, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 14:35:43", "code": "SZSE.300364", "name": "中文在线", "action": "BUY", "price": 30.74, "volume_ratio": 0.07, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 14:35:43", "code": "SZSE.300813", "name": "泰林生物", "action": "SELL", "price": 25.29, "volume_ratio": 0.59, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 14:35:43", "code": "SZSE.301281", "name": "利源制药", "action": "SELL", "price": 41.45, "volume_ratio": 1.78, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 14:35:43", "code": "SZSE.002445", "name": "中南文化", "action": "SELL", "price": 4.0, "volume_ratio": 0.21, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 14:35:43", "code": "SHSE.601868", "name": "中国能建", "action": "BUY", "price": 3.51, "volume_ratio": 2.63, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 14:35:43", "code": "SZSE.300724", "name": "捷佳伟创", "action": "BUY", "price": 93.01, "volume_ratio": 0.25, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 14:35:43", "code": "SZSE.300364", "name": "中文在线", "action": "BUY", "price": 30.85, "volume_ratio": 1.65, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 14:35:43", "code": "SZSE.300813", "name": "泰林生物", "action": "SELL", "price": 25.28, "volume_ratio": 1.97, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 14:35:43", "code": "SZSE.301281", "name": "利源制药", "action": "SELL", "price": 41.44, "volume_ratio": 0.03, "source": "AlphaPilot_Email"}

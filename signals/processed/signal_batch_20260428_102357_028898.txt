@@ -1,0 +1,16 @@
+{"ts": "2026-04-28 10:23:56", "code": "SZSE.002202", "name": "金风科技", "action": "BUY", "price": 25.68, "volume_ratio": 0.66, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:23:56", "code": "SZSE.301165", "name": "锐捷网络", "action": "BUY", "price": 94.39, "volume_ratio": 1.62, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:23:56", "code": "SZSE.300274", "name": "阳光电源", "action": "SELL", "price": 130.31, "volume_ratio": 0.21, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:23:56", "code": "SZSE.300285", "name": "国瓷材料", "action": "BUY", "price": 34.6, "volume_ratio": 0.73, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:23:56", "code": "SZSE.002611", "name": "东方精工", "action": "SELL", "price": 16.62, "volume_ratio": 0.72, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:23:56", "code": "SZSE.301071", "name": "力量钻石", "action": "BUY", "price": 52.02, "volume_ratio": 0.07, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:23:56", "code": "SZSE.300054", "name": "鼎龙股份", "action": "BUY", "price": 59.71, "volume_ratio": 0.77, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:23:56", "code": "SZSE.003035", "name": "南网能源", "action": "SELL", "price": 7.73, "volume_ratio": 0.08, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:23:56", "code": "SZSE.002202", "name": "金风科技", "action": "BUY", "price": 25.69, "volume_ratio": 0.16, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:23:56", "code": "SZSE.300207", "name": "欣旺达", "action": "SELL", "price": 26.29, "volume_ratio": 0.26, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:23:56", "code": "SZSE.300274", "name": "阳光电源", "action": "SELL", "price": 129.9, "volume_ratio": 0.37, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:23:56", "code": "SZSE.300285", "name": "国瓷材料", "action": "BUY", "price": 34.81, "volume_ratio": 3.7, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:23:56", "code": "SZSE.002611", "name": "东方精工", "action": "SELL", "price": 16.61, "volume_ratio": 0.67, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:23:56", "code": "SZSE.300228", "name": "富瑞特装", "action": "SELL", "price": 9.14, "volume_ratio": 0.51, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:23:56", "code": "SZSE.301071", "name": "力量钻石", "action": "BUY", "price": 52.08, "volume_ratio": 0.46, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:23:56", "code": "SZSE.300953", "name": "震裕科技", "action": "BUY", "price": 214.92, "volume_ratio": 0.0, "source": "AlphaPilot_Email"}

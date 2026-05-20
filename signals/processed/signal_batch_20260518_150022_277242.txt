@@ -1,0 +1,6 @@
+{"ts": "2026-05-18 15:00:21", "code": "SZSE.301282", "name": "金禄电子", "action": "BUY", "price": 27.44, "volume_ratio": 0.52, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 15:00:21", "code": "SZSE.301295", "name": "美硕科技", "action": "BUY", "price": 50.3, "volume_ratio": 0.23, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 15:00:21", "code": "SZSE.301310", "name": "鑫宏业", "action": "SELL", "price": 43.33, "volume_ratio": 0.94, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 15:00:21", "code": "SZSE.301282", "name": "金禄电子", "action": "BUY", "price": 27.45, "volume_ratio": 0.59, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 15:00:21", "code": "SZSE.301295", "name": "美硕科技", "action": "BUY", "price": 50.35, "volume_ratio": 0.25, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 15:00:21", "code": "SZSE.301310", "name": "鑫宏业", "action": "SELL", "price": 43.3, "volume_ratio": 0.96, "source": "AlphaPilot_Email"}

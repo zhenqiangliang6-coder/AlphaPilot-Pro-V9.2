@@ -1,0 +1,6 @@
+{"ts": "2026-05-15 10:47:17", "code": "SZSE.002240", "name": "盛新锂能", "action": "BUY", "price": 52.35, "volume_ratio": 1.12, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 10:47:17", "code": "SZSE.001309", "name": "德利明", "action": "BUY", "price": 713.79, "volume_ratio": 0.05, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 10:47:17", "code": "SZSE.002285", "name": "世联行", "action": "BUY", "price": 3.11, "volume_ratio": 0.01, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 10:47:17", "code": "SZSE.002240", "name": "盛新锂能", "action": "BUY", "price": 52.43, "volume_ratio": 0.05, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 10:47:17", "code": "SZSE.001309", "name": "德利明", "action": "BUY", "price": 720.0, "volume_ratio": 0.14, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 10:47:17", "code": "SZSE.002285", "name": "世联行", "action": "BUY", "price": 3.12, "volume_ratio": 0.25, "source": "AlphaPilot_Email"}

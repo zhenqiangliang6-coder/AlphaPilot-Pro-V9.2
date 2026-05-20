@@ -1,0 +1,12 @@
+{"ts": "2026-05-18 13:27:11", "code": "SZSE.002202", "name": "金风科技", "action": "SELL", "price": 25.9, "volume_ratio": 0.29, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 13:27:11", "code": "SZSE.300207", "name": "欣旺达", "action": "SELL", "price": 25.22, "volume_ratio": 0.22, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 13:27:11", "code": "SZSE.300677", "name": "英科医疗", "action": "BUY", "price": 51.55, "volume_ratio": 0.38, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 13:27:11", "code": "SZSE.002506", "name": "协鑫集成", "action": "SELL", "price": 4.34, "volume_ratio": 0.04, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 13:27:11", "code": "SZSE.300449", "name": "汉邦高科", "action": "SELL", "price": 9.69, "volume_ratio": 2.53, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 13:27:11", "code": "SZSE.300054", "name": "鼎龙股份", "action": "BUY", "price": 71.56, "volume_ratio": 0.51, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 13:27:11", "code": "SZSE.002202", "name": "金风科技", "action": "SELL", "price": 25.89, "volume_ratio": 0.07, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 13:27:11", "code": "SZSE.300207", "name": "欣旺达", "action": "SELL", "price": 25.15, "volume_ratio": 0.39, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 13:27:11", "code": "SZSE.300677", "name": "英科医疗", "action": "BUY", "price": 51.93, "volume_ratio": 1.13, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 13:27:11", "code": "SZSE.002506", "name": "协鑫集成", "action": "SELL", "price": 4.33, "volume_ratio": 0.04, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 13:27:11", "code": "SZSE.300449", "name": "汉邦高科", "action": "SELL", "price": 9.68, "volume_ratio": 0.64, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 13:27:11", "code": "SZSE.300054", "name": "鼎龙股份", "action": "BUY", "price": 71.86, "volume_ratio": 0.41, "source": "AlphaPilot_Email"}

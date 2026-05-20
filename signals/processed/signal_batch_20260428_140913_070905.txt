@@ -1,0 +1,17 @@
+{"ts": "2026-04-28 14:09:13", "code": "SZSE.002300", "name": "太阳电缆", "action": "SELL", "price": 9.79, "volume_ratio": 0.18, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 14:09:13", "code": "SZSE.000537", "name": "绿发电力", "action": "BUY", "price": 10.29, "volume_ratio": 1.4, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 14:09:13", "code": "SZSE.002475", "name": "立讯精密", "action": "SELL", "price": 69.9, "volume_ratio": 0.09, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 14:09:13", "code": "SZSE.002925", "name": "盈趣科技", "action": "BUY", "price": 19.07, "volume_ratio": 0.29, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 14:09:13", "code": "SZSE.002429", "name": "兆驰股份", "action": "BUY", "price": 11.42, "volume_ratio": 2.14, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 14:09:13", "code": "SZSE.001309", "name": "德利明", "action": "BUY", "price": 497.42, "volume_ratio": 0.42, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 14:09:13", "code": "SHSE.688617", "name": "惠泰医疗", "action": "SELL", "price": 244.0, "volume_ratio": 1.57, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 14:09:13", "code": "SHSE.688331", "name": "荣昌生物", "action": "BUY", "price": 134.91, "volume_ratio": 0.52, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 14:09:13", "code": "SHSE.688617", "name": "惠泰医疗", "action": "SELL", "price": 244.0, "volume_ratio": 1.57, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 14:09:13", "code": "SZSE.002683", "name": "宏大爆破", "action": "BUY", "price": 36.3, "volume_ratio": 3.29, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 14:09:13", "code": "SZSE.002300", "name": "太阳电缆", "action": "SELL", "price": 9.78, "volume_ratio": 0.06, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 14:09:13", "code": "SZSE.002475", "name": "立讯精密", "action": "SELL", "price": 69.89, "volume_ratio": 0.09, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 14:09:13", "code": "SZSE.002429", "name": "兆驰股份", "action": "BUY", "price": 11.43, "volume_ratio": 5.69, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 14:09:13", "code": "SZSE.001309", "name": "德利明", "action": "BUY", "price": 498.96, "volume_ratio": 0.76, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 14:09:13", "code": "SHSE.688617", "name": "惠泰医疗", "action": "SELL", "price": 243.9, "volume_ratio": 0.57, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 14:09:13", "code": "SHSE.688331", "name": "荣昌生物", "action": "BUY", "price": 135.38, "volume_ratio": 5.61, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 14:09:13", "code": "SHSE.688617", "name": "惠泰医疗", "action": "SELL", "price": 243.9, "volume_ratio": 0.57, "source": "AlphaPilot_Email"}

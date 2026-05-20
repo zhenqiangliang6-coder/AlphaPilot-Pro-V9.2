@@ -1,0 +1,10 @@
+{"ts": "2026-04-28 11:12:47", "code": "SZSE.300274", "name": "阳光电源", "action": "BUY", "price": 131.16, "volume_ratio": 0.77, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 11:12:47", "code": "SZSE.301278", "name": "快克股份", "action": "SELL", "price": 37.97, "volume_ratio": 0.6, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 11:12:47", "code": "SZSE.002611", "name": "东方精工", "action": "SELL", "price": 16.55, "volume_ratio": 0.16, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 11:12:47", "code": "SZSE.301071", "name": "力量钻石", "action": "SELL", "price": 52.39, "volume_ratio": 0.17, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 11:12:47", "code": "SZSE.300449", "name": "汉邦高科", "action": "SELL", "price": 7.25, "volume_ratio": 0.28, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 11:12:47", "code": "SZSE.300274", "name": "阳光电源", "action": "BUY", "price": 131.18, "volume_ratio": 1.22, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 11:12:47", "code": "SZSE.301278", "name": "快克股份", "action": "SELL", "price": 37.95, "volume_ratio": 0.38, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 11:12:47", "code": "SZSE.002611", "name": "东方精工", "action": "SELL", "price": 16.52, "volume_ratio": 1.42, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 11:12:47", "code": "SZSE.301071", "name": "力量钻石", "action": "SELL", "price": 52.36, "volume_ratio": 1.34, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 11:12:47", "code": "SZSE.300449", "name": "汉邦高科", "action": "SELL", "price": 7.24, "volume_ratio": 0.79, "source": "AlphaPilot_Email"}

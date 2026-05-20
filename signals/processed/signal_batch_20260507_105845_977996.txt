@@ -1,0 +1,8 @@
+{"ts": "2026-05-07 10:58:45", "code": "SHSE.603353", "name": "和顺电气", "action": "BUY", "price": 49.59, "volume_ratio": 0.13, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:58:45", "code": "SHSE.603538", "name": "美诺华", "action": "SELL", "price": 68.45, "volume_ratio": 0.19, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:58:45", "code": "SZSE.002980", "name": "华盛昌", "action": "SELL", "price": 80.11, "volume_ratio": 0.21, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:58:45", "code": "SZSE.300672", "name": "国科微", "action": "BUY", "price": 192.4, "volume_ratio": 0.32, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:58:45", "code": "SHSE.603353", "name": "和顺电气", "action": "BUY", "price": 49.67, "volume_ratio": 0.23, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:58:45", "code": "SHSE.603538", "name": "美诺华", "action": "SELL", "price": 68.31, "volume_ratio": 0.51, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:58:45", "code": "SZSE.002980", "name": "华盛昌", "action": "SELL", "price": 79.99, "volume_ratio": 0.32, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:58:45", "code": "SZSE.300672", "name": "国科微", "action": "BUY", "price": 193.26, "volume_ratio": 2.45, "source": "AlphaPilot_Email"}

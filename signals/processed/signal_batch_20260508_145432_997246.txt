@@ -1,0 +1,12 @@
+{"ts": "2026-05-08 14:54:32", "code": "SHSE.600103", "name": "青山纸业", "action": "BUY", "price": 4.9, "volume_ratio": 0.53, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 14:54:32", "code": "SHSE.600520", "name": "三佳科技", "action": "BUY", "price": 29.8, "volume_ratio": 0.13, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 14:54:32", "code": "SHSE.600699", "name": "均胜电子", "action": "BUY", "price": 29.62, "volume_ratio": 1.06, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 14:54:32", "code": "SHSE.600979", "name": "广安爱众", "action": "BUY", "price": 5.13, "volume_ratio": 0.29, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 14:54:32", "code": "SHSE.603052", "name": "可川科技", "action": "BUY", "price": 88.32, "volume_ratio": 0.52, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 14:54:32", "code": "SHSE.603057", "name": "紫燕食品", "action": "SELL", "price": 27.81, "volume_ratio": 1.11, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 14:54:32", "code": "SHSE.600103", "name": "青山纸业", "action": "BUY", "price": 4.91, "volume_ratio": 0.79, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 14:54:32", "code": "SHSE.600520", "name": "三佳科技", "action": "BUY", "price": 29.81, "volume_ratio": 0.11, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 14:54:32", "code": "SHSE.600699", "name": "均胜电子", "action": "BUY", "price": 29.64, "volume_ratio": 0.3, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 14:54:32", "code": "SHSE.600979", "name": "广安爱众", "action": "BUY", "price": 5.14, "volume_ratio": 0.14, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 14:54:32", "code": "SHSE.603052", "name": "可川科技", "action": "BUY", "price": 88.36, "volume_ratio": 2.28, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 14:54:32", "code": "SHSE.603057", "name": "紫燕食品", "action": "SELL", "price": 27.8, "volume_ratio": 1.14, "source": "AlphaPilot_Email"}

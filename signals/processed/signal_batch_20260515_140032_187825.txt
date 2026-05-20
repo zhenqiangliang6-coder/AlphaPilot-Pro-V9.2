@@ -1,0 +1,16 @@
+{"ts": "2026-05-15 14:00:32", "code": "SZSE.300195", "name": "长荣股份", "action": "SELL", "price": 6.77, "volume_ratio": 2.67, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 14:00:32", "code": "SHSE.688295", "name": "奥林德", "action": "SELL", "price": 54.78, "volume_ratio": 1.69, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 14:00:32", "code": "SHSE.600821", "name": "金发科技", "action": "SELL", "price": 8.53, "volume_ratio": 0.05, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 14:00:32", "code": "SHSE.600726", "name": "华电能源", "action": "SELL", "price": 7.88, "volume_ratio": 0.78, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 14:00:32", "code": "SZSE.300782", "name": "卓胜微", "action": "BUY", "price": 133.76, "volume_ratio": 0.03, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 14:00:32", "code": "SZSE.300866", "name": "安克创新", "action": "BUY", "price": 133.99, "volume_ratio": 0.43, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 14:00:32", "code": "SZSE.300813", "name": "泰林生物", "action": "BUY", "price": 24.73, "volume_ratio": 0.3, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 14:00:32", "code": "SZSE.300195", "name": "长荣股份", "action": "SELL", "price": 6.75, "volume_ratio": 0.2, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 14:00:32", "code": "SZSE.300285", "name": "国瓷材料", "action": "SELL", "price": 39.21, "volume_ratio": 1.75, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 14:00:32", "code": "SZSE.000958", "name": "电投产融", "action": "BUY", "price": 5.99, "volume_ratio": 1.21, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 14:00:32", "code": "SZSE.002015", "name": "协鑫能科", "action": "SELL", "price": 21.75, "volume_ratio": 0.42, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 14:00:32", "code": "SHSE.600726", "name": "华电能源", "action": "SELL", "price": 7.88, "volume_ratio": 0.06, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 14:00:32", "code": "SZSE.300782", "name": "卓胜微", "action": "BUY", "price": 134.07, "volume_ratio": 0.32, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 14:00:32", "code": "SZSE.300866", "name": "安克创新", "action": "BUY", "price": 134.0, "volume_ratio": 0.28, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 14:00:32", "code": "SZSE.300813", "name": "泰林生物", "action": "BUY", "price": 24.75, "volume_ratio": 0.05, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 14:00:32", "code": "SZSE.301281", "name": "利源制药", "action": "SELL", "price": 38.53, "volume_ratio": 0.03, "source": "AlphaPilot_Email"}

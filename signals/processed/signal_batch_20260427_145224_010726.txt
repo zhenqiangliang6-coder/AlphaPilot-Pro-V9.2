@@ -1,0 +1,6 @@
+{"ts": "2026-04-27 14:52:23", "code": "SZSE.300722", "name": "新余国科", "action": "BUY", "price": 28.28, "volume_ratio": 0.11, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 14:52:23", "code": "SZSE.002980", "name": "华盛昌", "action": "BUY", "price": 80.76, "volume_ratio": 0.8, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 14:52:23", "code": "SZSE.000677", "name": "恒立实业", "action": "BUY", "price": 3.85, "volume_ratio": 0.48, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 14:52:23", "code": "SZSE.300722", "name": "新余国科", "action": "BUY", "price": 28.3, "volume_ratio": 0.23, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 14:52:23", "code": "SZSE.002980", "name": "华盛昌", "action": "BUY", "price": 80.88, "volume_ratio": 0.37, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 14:52:23", "code": "SZSE.000677", "name": "恒立实业", "action": "BUY", "price": 3.86, "volume_ratio": 2.21, "source": "AlphaPilot_Email"}

@@ -1,0 +1,16 @@
+{"ts": "2026-05-18 14:12:46", "code": "SHSE.600989", "name": "宝丰能源", "action": "SELL", "price": 29.14, "volume_ratio": 1.39, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 14:12:46", "code": "SZSE.002455", "name": "百川股份", "action": "SELL", "price": 9.86, "volume_ratio": 0.68, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 14:12:46", "code": "SZSE.301165", "name": "锐捷网络", "action": "SELL", "price": 95.05, "volume_ratio": 0.23, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 14:12:46", "code": "SZSE.300274", "name": "阳光电源", "action": "BUY", "price": 150.64, "volume_ratio": 1.38, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 14:12:46", "code": "SZSE.002506", "name": "协鑫集成", "action": "SELL", "price": 4.34, "volume_ratio": 0.57, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 14:12:46", "code": "SZSE.300285", "name": "国瓷材料", "action": "SELL", "price": 38.68, "volume_ratio": 0.47, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 14:12:46", "code": "SZSE.300449", "name": "汉邦高科", "action": "SELL", "price": 9.74, "volume_ratio": 0.57, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 14:12:46", "code": "SZSE.300953", "name": "震裕科技", "action": "SELL", "price": 242.5, "volume_ratio": 0.37, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 14:12:46", "code": "SHSE.600989", "name": "宝丰能源", "action": "SELL", "price": 29.1, "volume_ratio": 2.06, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 14:12:46", "code": "SZSE.002455", "name": "百川股份", "action": "SELL", "price": 9.83, "volume_ratio": 1.23, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 14:12:46", "code": "SZSE.301165", "name": "锐捷网络", "action": "SELL", "price": 94.88, "volume_ratio": 0.21, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 14:12:46", "code": "SZSE.300274", "name": "阳光电源", "action": "BUY", "price": 150.83, "volume_ratio": 2.93, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 14:12:46", "code": "SZSE.002506", "name": "协鑫集成", "action": "SELL", "price": 4.32, "volume_ratio": 0.91, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 14:12:46", "code": "SZSE.300285", "name": "国瓷材料", "action": "SELL", "price": 38.67, "volume_ratio": 0.19, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 14:12:46", "code": "SZSE.300449", "name": "汉邦高科", "action": "SELL", "price": 9.72, "volume_ratio": 0.84, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 14:12:46", "code": "SZSE.300953", "name": "震裕科技", "action": "SELL", "price": 242.1, "volume_ratio": 0.36, "source": "AlphaPilot_Email"}

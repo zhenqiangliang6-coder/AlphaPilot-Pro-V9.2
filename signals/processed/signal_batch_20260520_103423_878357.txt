@@ -1,0 +1,8 @@
+{"ts": "2026-05-20 10:34:23", "code": "SZSE.002364", "name": "中恒电器", "action": "SELL", "price": 51.5, "volume_ratio": 0.28, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:34:23", "code": "SZSE.002475", "name": "立讯精密", "action": "SELL", "price": 70.98, "volume_ratio": 0.44, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:34:23", "code": "SZSE.300352", "name": "北信源", "action": "SELL", "price": 3.38, "volume_ratio": 0.3, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:34:23", "code": "SZSE.300432", "name": "富临精工", "action": "SELL", "price": 24.39, "volume_ratio": 0.58, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:34:23", "code": "SZSE.002364", "name": "中恒电器", "action": "SELL", "price": 51.33, "volume_ratio": 0.1, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:34:23", "code": "SZSE.002475", "name": "立讯精密", "action": "SELL", "price": 70.82, "volume_ratio": 1.06, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:34:23", "code": "SZSE.300352", "name": "北信源", "action": "SELL", "price": 3.37, "volume_ratio": 2.26, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:34:23", "code": "SZSE.300432", "name": "富临精工", "action": "SELL", "price": 24.27, "volume_ratio": 0.53, "source": "AlphaPilot_Email"}

@@ -1,0 +1,17 @@
+{"ts": "2026-05-15 09:55:37", "code": "SHSE.688811", "name": "有研复材", "action": "SELL", "price": 27.0, "volume_ratio": 0.08, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 09:55:37", "code": "SZSE.001400", "name": "江顺科技", "action": "BUY", "price": 182.01, "volume_ratio": 1.94, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 09:55:37", "code": "SZSE.002062", "name": "宏润建设", "action": "SELL", "price": 9.57, "volume_ratio": 0.0, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 09:55:37", "code": "SZSE.002108", "name": "沧州明珠", "action": "BUY", "price": 5.72, "volume_ratio": 0.03, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 09:55:37", "code": "SZSE.002203", "name": "海亮股份", "action": "BUY", "price": 21.54, "volume_ratio": 0.08, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 09:55:37", "code": "SZSE.002338", "name": "奥普光电", "action": "BUY", "price": 63.2, "volume_ratio": 0.59, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 09:55:37", "code": "SZSE.002436", "name": "兴森科技", "action": "SELL", "price": 32.51, "volume_ratio": 0.96, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 09:55:37", "code": "SZSE.002487", "name": "大金重工", "action": "SELL", "price": 77.55, "volume_ratio": 1.77, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 09:55:37", "code": "SZSE.000037", "name": "深南电A", "action": "SELL", "price": 10.59, "volume_ratio": 0.12, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 09:55:37", "code": "SZSE.001400", "name": "江顺科技", "action": "BUY", "price": 182.14, "volume_ratio": 2.24, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 09:55:37", "code": "SZSE.002062", "name": "宏润建设", "action": "SELL", "price": 9.53, "volume_ratio": 1.42, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 09:55:37", "code": "SZSE.002108", "name": "沧州明珠", "action": "BUY", "price": 5.77, "volume_ratio": 0.02, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 09:55:37", "code": "SZSE.002203", "name": "海亮股份", "action": "BUY", "price": 21.56, "volume_ratio": 0.05, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 09:55:37", "code": "SZSE.002338", "name": "奥普光电", "action": "BUY", "price": 63.26, "volume_ratio": 0.42, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 09:55:37", "code": "SZSE.002436", "name": "兴森科技", "action": "SELL", "price": 32.48, "volume_ratio": 0.42, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 09:55:37", "code": "SZSE.002487", "name": "大金重工", "action": "SELL", "price": 77.43, "volume_ratio": 0.68, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 09:55:37", "code": "SZSE.002580", "name": "圣阳股份", "action": "SELL", "price": 29.12, "volume_ratio": 1.28, "source": "AlphaPilot_Email"}

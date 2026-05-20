@@ -1,0 +1,4 @@
+{"ts": "2026-05-18 11:36:38", "code": "SZSE.300195", "name": "长荣股份", "action": "BUY", "price": 6.68, "volume_ratio": 2.04, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 11:36:38", "code": "SZSE.300285", "name": "国瓷材料", "action": "BUY", "price": 39.22, "volume_ratio": 1.77, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 11:36:38", "code": "SZSE.300195", "name": "长荣股份", "action": "BUY", "price": 6.69, "volume_ratio": 0.53, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 11:36:38", "code": "SZSE.300285", "name": "国瓷材料", "action": "BUY", "price": 39.25, "volume_ratio": 1.17, "source": "AlphaPilot_Email"}

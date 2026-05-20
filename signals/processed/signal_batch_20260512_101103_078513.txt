@@ -1,0 +1,6 @@
+{"ts": "2026-05-12 10:11:02", "code": "SHSE.600699", "name": "均胜电子", "action": "SELL", "price": 28.44, "volume_ratio": 0.18, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:11:02", "code": "SHSE.603025", "name": "大豪科技", "action": "SELL", "price": 17.07, "volume_ratio": 0.81, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:11:02", "code": "SHSE.603032", "name": "德新科技", "action": "SELL", "price": 24.65, "volume_ratio": 0.68, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:11:02", "code": "SHSE.600590", "name": "泰豪科技", "action": "SELL", "price": 15.84, "volume_ratio": 0.91, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:11:02", "code": "SHSE.600699", "name": "均胜电子", "action": "SELL", "price": 28.42, "volume_ratio": 0.74, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:11:02", "code": "SHSE.603025", "name": "大豪科技", "action": "SELL", "price": 17.05, "volume_ratio": 0.44, "source": "AlphaPilot_Email"}

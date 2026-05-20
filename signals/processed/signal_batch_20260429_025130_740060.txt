@@ -1,0 +1,6 @@
+{"ts": "2026-04-29 02:51:30", "code": "SZSE.002300", "name": "太阳电缆", "action": "SELL", "price": 9.78, "volume_ratio": 0.12, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-29 02:51:30", "code": "SZSE.002828", "name": "贝肯能源", "action": "SELL", "price": 11.95, "volume_ratio": 1.11, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-29 02:51:30", "code": "SZSE.001309", "name": "德利明", "action": "SELL", "price": 496.7, "volume_ratio": 0.87, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-29 02:51:30", "code": "SZSE.002300", "name": "太阳电缆", "action": "SELL", "price": 9.77, "volume_ratio": 0.4, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-29 02:51:30", "code": "SZSE.002828", "name": "贝肯能源", "action": "SELL", "price": 11.94, "volume_ratio": NaN, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-29 02:51:30", "code": "SZSE.001309", "name": "德利明", "action": "SELL", "price": 496.39, "volume_ratio": NaN, "source": "AlphaPilot_Email"}

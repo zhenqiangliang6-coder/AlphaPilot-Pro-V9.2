@@ -1,0 +1,8 @@
+{"ts": "2026-05-08 13:18:46", "code": "SZSE.002585", "name": "双星新材", "action": "BUY", "price": 7.85, "volume_ratio": 0.3, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:18:46", "code": "SZSE.002595", "name": "豪迈科技", "action": "SELL", "price": 85.63, "volume_ratio": 0.02, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:18:46", "code": "SZSE.300083", "name": "创世纪", "action": "BUY", "price": 10.38, "volume_ratio": 0.4, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:18:46", "code": "SZSE.300323", "name": "华灿光电", "action": "BUY", "price": 13.09, "volume_ratio": 0.45, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:18:46", "code": "SZSE.002585", "name": "双星新材", "action": "BUY", "price": 7.86, "volume_ratio": 0.17, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:18:46", "code": "SZSE.300083", "name": "创世纪", "action": "BUY", "price": 10.4, "volume_ratio": 2.37, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:18:46", "code": "SZSE.300323", "name": "华灿光电", "action": "BUY", "price": 13.13, "volume_ratio": 1.02, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:18:46", "code": "SZSE.301110", "name": "青木科技", "action": "SELL", "price": 70.72, "volume_ratio": 0.15, "source": "AlphaPilot_Email"}

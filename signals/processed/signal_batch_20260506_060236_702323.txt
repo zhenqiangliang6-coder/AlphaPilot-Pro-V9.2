@@ -1,0 +1,2 @@
+{"ts": "2026-04-22 10:47:52", "code": "SZSE.000537", "name": "绿发电力", "action": "BUY", "price": 10.57, "volume_ratio": 1.74, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-22 10:47:52", "code": "SZSE.002925", "name": "盈趣科技", "action": "SELL", "price": 20.15, "volume_ratio": 0.27, "source": "AlphaPilot_Email"}

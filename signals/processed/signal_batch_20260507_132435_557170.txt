@@ -1,0 +1,142 @@
+[
+  {
+    "code": "000037",
+    "name": "深南电A",
+    "signal": "买入",
+    "fusion": "0.0017",
+    "current_price": "11.2000",
+    "volume_ratio": 0.4,
+    "timestamp": "2026-05-07 13:24:34",
+    "source": "thr"
+  },
+  {
+    "code": "000657",
+    "name": "中钨高新",
+    "signal": "卖出",
+    "fusion": "0.0018",
+    "current_price": "62.4700",
+    "volume_ratio": 0.46,
+    "timestamp": "2026-05-07 13:24:34",
+    "source": "thr"
+  },
+  {
+    "code": "001400",
+    "name": "江顺科技",
+    "signal": "买入",
+    "fusion": "-0.0110",
+    "current_price": "202.8200",
+    "volume_ratio": 0.74,
+    "timestamp": "2026-05-07 13:24:34",
+    "source": "thr"
+  },
+  {
+    "code": "002108",
+    "name": "沧州明珠",
+    "signal": "买入",
+    "fusion": "0.0983",
+    "current_price": "5.6800",
+    "volume_ratio": 0.05,
+    "timestamp": "2026-05-07 13:24:34",
+    "source": "thr"
+  },
+  {
+    "code": "002203",
+    "name": "海亮股份",
+    "signal": "买入",
+    "fusion": "0.0116",
+    "current_price": "19.8700",
+    "volume_ratio": 0.78,
+    "timestamp": "2026-05-07 13:24:34",
+    "source": "thr"
+  },
+  {
+    "code": "002436",
+    "name": "兴森科技",
+    "signal": "买入",
+    "fusion": "0.0178",
+    "current_price": "31.8000",
+    "volume_ratio": 0.29,
+    "timestamp": "2026-05-07 13:24:34",
+    "source": "thr"
+  },
+  {
+    "code": "002580",
+    "name": "圣阳股份",
+    "signal": "卖出",
+    "fusion": "0.0094",
+    "current_price": "30.9400",
+    "volume_ratio": 0.51,
+    "timestamp": "2026-05-07 13:24:34",
+    "source": "thr"
+  },
+  {
+    "code": "000037",
+    "name": "深南电A",
+    "signal": "买入",
+    "fusion": "0.0019",
+    "current_price": "11.2200",
+    "volume_ratio": 0.83,
+    "timestamp": "2026-05-07 13:24:34",
+    "source": "thr"
+  },
+  {
+    "code": "000657",
+    "name": "中钨高新",
+    "signal": "卖出",
+    "fusion": "0.0018",
+    "current_price": "62.3800",
+    "volume_ratio": 1.5,
+    "timestamp": "2026-05-07 13:24:34",
+    "source": "thr"
+  },
+  {
+    "code": "001400",
+    "name": "江顺科技",
+    "signal": "买入",
+    "fusion": "-0.0167",
+    "current_price": "202.8600",
+    "volume_ratio": 0.58,
+    "timestamp": "2026-05-07 13:24:34",
+    "source": "thr"
+  },
+  {
+    "code": "002108",
+    "name": "沧州明珠",
+    "signal": "买入",
+    "fusion": "0.1129",
+    "current_price": "5.6900",
+    "volume_ratio": 0.16,
+    "timestamp": "2026-05-07 13:24:34",
+    "source": "thr"
+  },
+  {
+    "code": "002203",
+    "name": "海亮股份",
+    "signal": "买入",
+    "fusion": "0.0209",
+    "current_price": "19.9300",
+    "volume_ratio": 0.73,
+    "timestamp": "2026-05-07 13:24:34",
+    "source": "thr"
+  },
+  {
+    "code": "002436",
+    "name": "兴森科技",
+    "signal": "买入",
+    "fusion": "0.0192",
+    "current_price": "31.8100",
+    "volume_ratio": 0.27,
+    "timestamp": "2026-05-07 13:24:34",
+    "source": "thr"
+  },
+  {
+    "code": "002580",
+    "name": "圣阳股份",
+    "signal": "卖出",
+    "fusion": "0.0077",
+    "current_price": "30.8800",
+    "volume_ratio": 0.34,
+    "timestamp": "2026-05-07 13:24:34",
+    "source": "thr"
+  }
+]

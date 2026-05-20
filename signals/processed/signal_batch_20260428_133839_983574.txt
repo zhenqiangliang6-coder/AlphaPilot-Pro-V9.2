@@ -1,0 +1,13 @@
+{"ts": "2026-04-28 13:38:39", "code": "SZSE.300048", "name": "合康新能", "action": "SELL", "price": 6.32, "volume_ratio": 0.2, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 13:38:39", "code": "SZSE.000536", "name": "华映科技", "action": "BUY", "price": 3.99, "volume_ratio": 4.18, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 13:38:39", "code": "SZSE.001309", "name": "德利明", "action": "SELL", "price": 498.68, "volume_ratio": 0.32, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 13:38:39", "code": "SHSE.688331", "name": "荣昌生物", "action": "BUY", "price": 134.61, "volume_ratio": 1.18, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 13:38:39", "code": "SZSE.300346", "name": "南大光电", "action": "SELL", "price": 50.86, "volume_ratio": 1.44, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 13:38:39", "code": "SZSE.002460", "name": "赣锋锂业", "action": "SELL", "price": 82.57, "volume_ratio": 0.86, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 13:38:39", "code": "SZSE.002475", "name": "立讯精密", "action": "SELL", "price": 70.39, "volume_ratio": 0.42, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 13:38:39", "code": "SZSE.300048", "name": "合康新能", "action": "SELL", "price": 6.31, "volume_ratio": 0.2, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 13:38:39", "code": "SZSE.300346", "name": "南大光电", "action": "SELL", "price": 50.84, "volume_ratio": 2.67, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 13:38:39", "code": "SZSE.000536", "name": "华映科技", "action": "BUY", "price": 3.99, "volume_ratio": 0.03, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 13:38:39", "code": "SHSE.688617", "name": "惠泰医疗", "action": "SELL", "price": 244.23, "volume_ratio": 1.02, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 13:38:39", "code": "SHSE.688331", "name": "荣昌生物", "action": "BUY", "price": 134.8, "volume_ratio": 0.74, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 13:38:39", "code": "SHSE.688617", "name": "惠泰医疗", "action": "SELL", "price": 244.23, "volume_ratio": 1.02, "source": "AlphaPilot_Email"}

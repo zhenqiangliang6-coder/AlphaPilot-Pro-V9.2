@@ -1,0 +1,4 @@
+{"ts": "2026-04-28 14:40:13", "code": "SZSE.002300", "name": "太阳电缆", "action": "BUY", "price": 9.7, "volume_ratio": 1.67, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 14:40:13", "code": "SHSE.688617", "name": "惠泰医疗", "action": "BUY", "price": 241.89, "volume_ratio": 1.7, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 14:40:13", "code": "SHSE.688617", "name": "惠泰医疗", "action": "BUY", "price": 241.92, "volume_ratio": 1.99, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 14:40:13", "code": "SZSE.002300", "name": "太阳电缆", "action": "BUY", "price": 9.73, "volume_ratio": 1.04, "source": "AlphaPilot_Email"}

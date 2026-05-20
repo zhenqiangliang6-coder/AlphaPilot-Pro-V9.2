@@ -1,0 +1,192 @@
+[
+  {
+    "code": "688811",
+    "name": "有研复材",
+    "signal": "卖出",
+    "fusion": "0.0205",
+    "current_price": "28.0000",
+    "volume_ratio": 0.43,
+    "timestamp": "2026-05-07 13:38:36",
+    "source": "thr"
+  },
+  {
+    "code": "000037",
+    "name": "深南电A",
+    "signal": "买入",
+    "fusion": "0.0011",
+    "current_price": "11.2300",
+    "volume_ratio": 0.15,
+    "timestamp": "2026-05-07 13:38:36",
+    "source": "thr"
+  },
+  {
+    "code": "000819",
+    "name": "岳阳兴长",
+    "signal": "卖出",
+    "fusion": "0.0026",
+    "current_price": "16.8000",
+    "volume_ratio": 0.92,
+    "timestamp": "2026-05-07 13:38:36",
+    "source": "thr"
+  },
+  {
+    "code": "001400",
+    "name": "江顺科技",
+    "signal": "买入",
+    "fusion": "-0.0153",
+    "current_price": "203.0400",
+    "volume_ratio": 1.38,
+    "timestamp": "2026-05-07 13:38:36",
+    "source": "thr"
+  },
+  {
+    "code": "002062",
+    "name": "宏润建设",
+    "signal": "买入",
+    "fusion": "-0.0048",
+    "current_price": "9.6500",
+    "volume_ratio": 0.43,
+    "timestamp": "2026-05-07 13:38:36",
+    "source": "thr"
+  },
+  {
+    "code": "002108",
+    "name": "沧州明珠",
+    "signal": "买入",
+    "fusion": "0.0670",
+    "current_price": "5.7100",
+    "volume_ratio": 1.57,
+    "timestamp": "2026-05-07 13:38:36",
+    "source": "thr"
+  },
+  {
+    "code": "002203",
+    "name": "海亮股份",
+    "signal": "买入",
+    "fusion": "0.0142",
+    "current_price": "19.9100",
+    "volume_ratio": 0.85,
+    "timestamp": "2026-05-07 13:38:36",
+    "source": "thr"
+  },
+  {
+    "code": "002436",
+    "name": "兴森科技",
+    "signal": "买入",
+    "fusion": "0.0261",
+    "current_price": "32.1700",
+    "volume_ratio": 0.51,
+    "timestamp": "2026-05-07 13:38:36",
+    "source": "thr"
+  },
+  {
+    "code": "002580",
+    "name": "圣阳股份",
+    "signal": "卖出",
+    "fusion": "0.0057",
+    "current_price": "30.8600",
+    "volume_ratio": 0.16,
+    "timestamp": "2026-05-07 13:38:36",
+    "source": "thr"
+  },
+  {
+    "code": "688416",
+    "name": "恒烁股份",
+    "signal": "卖出",
+    "fusion": "-0.0024",
+    "current_price": "112.2000",
+    "volume_ratio": 2.28,
+    "timestamp": "2026-05-07 13:38:36",
+    "source": "thr"
+  },
+  {
+    "code": "688811",
+    "name": "有研复材",
+    "signal": "卖出",
+    "fusion": "0.0062",
+    "current_price": "27.9400",
+    "volume_ratio": 1.35,
+    "timestamp": "2026-05-07 13:38:36",
+    "source": "thr"
+  },
+  {
+    "code": "000037",
+    "name": "深南电A",
+    "signal": "买入",
+    "fusion": "0.0012",
+    "current_price": "11.2400",
+    "volume_ratio": 0.16,
+    "timestamp": "2026-05-07 13:38:36",
+    "source": "thr"
+  },
+  {
+    "code": "000819",
+    "name": "岳阳兴长",
+    "signal": "卖出",
+    "fusion": "0.0048",
+    "current_price": "16.7900",
+    "volume_ratio": 4.0,
+    "timestamp": "2026-05-07 13:38:36",
+    "source": "thr"
+  },
+  {
+    "code": "001400",
+    "name": "江顺科技",
+    "signal": "买入",
+    "fusion": "-0.0192",
+    "current_price": "203.6100",
+    "volume_ratio": 1.14,
+    "timestamp": "2026-05-07 13:38:36",
+    "source": "thr"
+  },
+  {
+    "code": "002062",
+    "name": "宏润建设",
+    "signal": "买入",
+    "fusion": "-0.0048",
+    "current_price": "9.6700",
+    "volume_ratio": 0.41,
+    "timestamp": "2026-05-07 13:38:36",
+    "source": "thr"
+  },
+  {
+    "code": "002108",
+    "name": "沧州明珠",
+    "signal": "买入",
+    "fusion": "0.0427",
+    "current_price": "5.7200",
+    "volume_ratio": 0.96,
+    "timestamp": "2026-05-07 13:38:36",
+    "source": "thr"
+  },
+  {
+    "code": "002203",
+    "name": "海亮股份",
+    "signal": "买入",
+    "fusion": "0.0113",
+    "current_price": "19.9500",
+    "volume_ratio": 3.11,
+    "timestamp": "2026-05-07 13:38:36",
+    "source": "thr"
+  },
+  {
+    "code": "002436",
+    "name": "兴森科技",
+    "signal": "买入",
+    "fusion": "0.0387",
+    "current_price": "32.2400",
+    "volume_ratio": 0.09,
+    "timestamp": "2026-05-07 13:38:36",
+    "source": "thr"
+  },
+  {
+    "code": "002580",
+    "name": "圣阳股份",
+    "signal": "卖出",
+    "fusion": "0.0021",
+    "current_price": "30.7900",
+    "volume_ratio": 0.34,
+    "timestamp": "2026-05-07 13:38:36",
+    "source": "thr"
+  }
+]

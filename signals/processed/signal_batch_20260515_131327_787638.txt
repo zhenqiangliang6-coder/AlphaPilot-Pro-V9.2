@@ -1,0 +1,14 @@
+{"ts": "2026-05-15 13:13:27", "code": "SZSE.300195", "name": "长荣股份", "action": "SELL", "price": 6.78, "volume_ratio": 0.24, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 13:13:27", "code": "SZSE.002015", "name": "协鑫能科", "action": "BUY", "price": 21.99, "volume_ratio": 1.31, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 13:13:27", "code": "SZSE.002445", "name": "中南文化", "action": "BUY", "price": 4.21, "volume_ratio": 0.77, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 13:13:27", "code": "SHSE.600722", "name": "金牛化工", "action": "SELL", "price": 12.84, "volume_ratio": 0.13, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 13:13:27", "code": "SHSE.600726", "name": "华电能源", "action": "BUY", "price": 8.01, "volume_ratio": 2.48, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 13:13:27", "code": "SZSE.300782", "name": "卓胜微", "action": "BUY", "price": 133.0, "volume_ratio": 4.05, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 13:13:27", "code": "SZSE.301281", "name": "利源制药", "action": "SELL", "price": 38.94, "volume_ratio": 0.24, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 13:13:27", "code": "SZSE.300195", "name": "长荣股份", "action": "SELL", "price": 6.77, "volume_ratio": 0.21, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 13:13:27", "code": "SZSE.002015", "name": "协鑫能科", "action": "BUY", "price": 22.14, "volume_ratio": 1.06, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 13:13:27", "code": "SZSE.002445", "name": "中南文化", "action": "BUY", "price": 4.27, "volume_ratio": 6.92, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 13:13:27", "code": "SHSE.600722", "name": "金牛化工", "action": "SELL", "price": 12.81, "volume_ratio": 0.48, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 13:13:27", "code": "SHSE.600726", "name": "华电能源", "action": "BUY", "price": 8.05, "volume_ratio": 0.4, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 13:13:27", "code": "SZSE.300782", "name": "卓胜微", "action": "BUY", "price": 133.74, "volume_ratio": 0.78, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 13:13:27", "code": "SZSE.301281", "name": "利源制药", "action": "SELL", "price": 38.91, "volume_ratio": 0.14, "source": "AlphaPilot_Email"}

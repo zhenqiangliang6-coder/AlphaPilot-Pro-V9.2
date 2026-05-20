@@ -1,0 +1,6 @@
+{"ts": "2026-05-14 11:33:30", "code": "SZSE.002595", "name": "豪迈科技", "action": "BUY", "price": 59.0, "volume_ratio": 0.05, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 11:33:30", "code": "SZSE.002875", "name": "安奈儿", "action": "BUY", "price": 24.8, "volume_ratio": 0.17, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 11:33:30", "code": "SZSE.300012", "name": "华测检测", "action": "SELL", "price": 15.54, "volume_ratio": 0.38, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 11:33:30", "code": "SZSE.002595", "name": "豪迈科技", "action": "BUY", "price": 59.02, "volume_ratio": 1.74, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 11:33:30", "code": "SZSE.002875", "name": "安奈儿", "action": "BUY", "price": 24.82, "volume_ratio": 0.3, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-14 11:33:30", "code": "SZSE.300012", "name": "华测检测", "action": "SELL", "price": 15.53, "volume_ratio": 0.46, "source": "AlphaPilot_Email"}

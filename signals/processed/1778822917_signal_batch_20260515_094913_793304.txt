@@ -1,0 +1,13 @@
+{"ts": "2026-05-15 09:49:12", "code": "SHSE.603083", "name": "剑桥科技", "action": "BUY", "price": 196.07, "volume_ratio": 1.14, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 09:49:12", "code": "SHSE.603178", "name": "圣龙股份", "action": "BUY", "price": 21.65, "volume_ratio": 0.66, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 09:49:12", "code": "SHSE.605060", "name": "联德股份", "action": "BUY", "price": 57.6, "volume_ratio": 0.24, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 09:49:12", "code": "SHSE.688307", "name": "中润光学", "action": "SELL", "price": 129.33, "volume_ratio": 0.83, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 09:49:12", "code": "SHSE.688313", "name": "仕佳光子", "action": "SELL", "price": 183.45, "volume_ratio": 0.33, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 09:49:12", "code": "SHSE.688337", "name": "普源精电", "action": "SELL", "price": 63.0, "volume_ratio": 0.36, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 09:49:12", "code": "SHSE.603083", "name": "剑桥科技", "action": "BUY", "price": 197.0, "volume_ratio": 0.39, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 09:49:12", "code": "SHSE.603178", "name": "圣龙股份", "action": "BUY", "price": 21.71, "volume_ratio": 1.98, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 09:49:12", "code": "SHSE.605060", "name": "联德股份", "action": "BUY", "price": 57.88, "volume_ratio": 1.25, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 09:49:12", "code": "SHSE.688150", "name": "莱特光电", "action": "SELL", "price": 58.02, "volume_ratio": 0.64, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 09:49:12", "code": "SHSE.688307", "name": "中润光学", "action": "SELL", "price": 127.73, "volume_ratio": 0.58, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 09:49:12", "code": "SHSE.688313", "name": "仕佳光子", "action": "SELL", "price": 180.8, "volume_ratio": 1.35, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 09:49:12", "code": "SHSE.688337", "name": "普源精电", "action": "BUY", "price": 62.8, "volume_ratio": 0.07, "source": "AlphaPilot_Email"}

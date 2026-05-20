@@ -1,0 +1,10 @@
+{"ts": "2026-05-07 11:16:31", "code": "SZSE.300274", "name": "阳光电源", "action": "BUY", "price": 139.68, "volume_ratio": 0.95, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 11:16:31", "code": "SZSE.002506", "name": "协鑫集成", "action": "BUY", "price": 4.47, "volume_ratio": 0.01, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 11:16:31", "code": "SZSE.300228", "name": "富瑞特装", "action": "SELL", "price": 9.4, "volume_ratio": 0.05, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 11:16:31", "code": "SZSE.300868", "name": "杰美特", "action": "BUY", "price": 83.32, "volume_ratio": 0.87, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 11:16:31", "code": "SZSE.300390", "name": "天华超净", "action": "BUY", "price": 109.27, "volume_ratio": 0.09, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 11:16:31", "code": "SZSE.300274", "name": "阳光电源", "action": "BUY", "price": 140.12, "volume_ratio": 0.99, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 11:16:31", "code": "SZSE.002506", "name": "协鑫集成", "action": "BUY", "price": 4.48, "volume_ratio": 0.14, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 11:16:31", "code": "SZSE.300228", "name": "富瑞特装", "action": "SELL", "price": 9.39, "volume_ratio": 1.31, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 11:16:31", "code": "SZSE.300868", "name": "杰美特", "action": "BUY", "price": 84.87, "volume_ratio": 2.52, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 11:16:31", "code": "SZSE.300390", "name": "天华超净", "action": "BUY", "price": 109.38, "volume_ratio": 0.54, "source": "AlphaPilot_Email"}

@@ -1,0 +1,15 @@
+{"ts": "2026-05-11 13:47:53", "code": "SZSE.003035", "name": "南网能源", "action": "SELL", "price": 7.93, "volume_ratio": 0.93, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 13:47:53", "code": "SZSE.002506", "name": "协鑫集成", "action": "SELL", "price": 4.41, "volume_ratio": 0.31, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 13:47:53", "code": "SZSE.301278", "name": "快克股份", "action": "BUY", "price": 41.27, "volume_ratio": 3.81, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 13:47:53", "code": "SZSE.301419", "name": "瑞可达", "action": "SELL", "price": 43.39, "volume_ratio": 2.89, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 13:47:53", "code": "SZSE.301071", "name": "力量钻石", "action": "SELL", "price": 55.21, "volume_ratio": 0.04, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 13:47:53", "code": "SZSE.300930", "name": "屹通新材", "action": "BUY", "price": 32.95, "volume_ratio": 0.78, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 13:47:53", "code": "SZSE.300054", "name": "鼎龙股份", "action": "BUY", "price": 66.97, "volume_ratio": 0.95, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 13:47:53", "code": "SZSE.003035", "name": "南网能源", "action": "SELL", "price": 7.91, "volume_ratio": 0.37, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 13:47:53", "code": "SZSE.300037", "name": "新宙邦", "action": "BUY", "price": 66.42, "volume_ratio": 0.69, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 13:47:53", "code": "SZSE.300677", "name": "英科医疗", "action": "SELL", "price": 52.0, "volume_ratio": 1.43, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 13:47:53", "code": "SZSE.002506", "name": "协鑫集成", "action": "SELL", "price": 4.4, "volume_ratio": 0.07, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 13:47:53", "code": "SZSE.300285", "name": "国瓷材料", "action": "SELL", "price": 39.55, "volume_ratio": 0.8, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 13:47:53", "code": "SZSE.300393", "name": "中来股份", "action": "BUY", "price": 12.4, "volume_ratio": 1.39, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 13:47:53", "code": "SZSE.301419", "name": "瑞可达", "action": "SELL", "price": 43.37, "volume_ratio": 0.84, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 13:47:53", "code": "SZSE.300054", "name": "鼎龙股份", "action": "BUY", "price": 66.99, "volume_ratio": 0.73, "source": "AlphaPilot_Email"}

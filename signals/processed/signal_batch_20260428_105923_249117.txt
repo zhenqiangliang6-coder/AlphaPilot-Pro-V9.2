@@ -1,0 +1,14 @@
+{"ts": "2026-04-28 10:59:23", "code": "SZSE.300763", "name": "锦浪科技", "action": "SELL", "price": 85.43, "volume_ratio": 0.06, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:59:23", "code": "SZSE.300285", "name": "国瓷材料", "action": "BUY", "price": 36.99, "volume_ratio": 1.91, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:59:23", "code": "SZSE.002015", "name": "协鑫能科", "action": "BUY", "price": 18.31, "volume_ratio": 0.06, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:59:23", "code": "SHSE.601016", "name": "节能风电", "action": "BUY", "price": 4.52, "volume_ratio": 0.44, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:59:23", "code": "SHSE.600726", "name": "华电能源", "action": "SELL", "price": 6.35, "volume_ratio": 0.45, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:59:23", "code": "SZSE.300866", "name": "安克创新", "action": "BUY", "price": 121.82, "volume_ratio": 0.05, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:59:23", "code": "SZSE.300813", "name": "泰林生物", "action": "SELL", "price": 25.78, "volume_ratio": 0.14, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:59:23", "code": "SZSE.300763", "name": "锦浪科技", "action": "SELL", "price": 85.15, "volume_ratio": 0.12, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:59:23", "code": "SZSE.300285", "name": "国瓷材料", "action": "BUY", "price": 37.12, "volume_ratio": 9.56, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:59:23", "code": "SZSE.002015", "name": "协鑫能科", "action": "BUY", "price": 18.34, "volume_ratio": 0.13, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:59:23", "code": "SHSE.601016", "name": "节能风电", "action": "BUY", "price": 4.53, "volume_ratio": 0.41, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:59:23", "code": "SHSE.600726", "name": "华电能源", "action": "SELL", "price": 6.34, "volume_ratio": 0.16, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:59:23", "code": "SZSE.300866", "name": "安克创新", "action": "BUY", "price": 121.9, "volume_ratio": 0.12, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 10:59:23", "code": "SZSE.300813", "name": "泰林生物", "action": "SELL", "price": 25.76, "volume_ratio": 0.34, "source": "AlphaPilot_Email"}

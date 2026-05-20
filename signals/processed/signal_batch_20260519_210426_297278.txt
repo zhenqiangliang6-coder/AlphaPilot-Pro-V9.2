@@ -1,0 +1,4 @@
+{"ts": "2026-05-19 21:04:26", "code": "SZSE.301389", "name": "隆扬电子", "action": "SELL", "price": 72.17, "volume_ratio": 0.62, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 21:04:26", "code": "SHSE.603353", "name": "和顺电气", "action": "SELL", "price": 48.29, "volume_ratio": 0.83, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 21:04:26", "code": "SZSE.301389", "name": "隆扬电子", "action": "SELL", "price": 72.14, "volume_ratio": NaN, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 21:04:26", "code": "SHSE.603353", "name": "和顺电气", "action": "SELL", "price": 48.24, "volume_ratio": NaN, "source": "AlphaPilot_Email"}

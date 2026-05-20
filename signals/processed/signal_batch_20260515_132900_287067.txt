@@ -1,0 +1,8 @@
+{"ts": "2026-05-15 13:29:00", "code": "SZSE.002300", "name": "太阳电缆", "action": "BUY", "price": 10.15, "volume_ratio": 0.78, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 13:29:00", "code": "SZSE.002240", "name": "盛新锂能", "action": "BUY", "price": 51.83, "volume_ratio": 0.15, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 13:29:00", "code": "SHSE.688331", "name": "荣昌生物", "action": "BUY", "price": 115.07, "volume_ratio": 0.04, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 13:29:00", "code": "SZSE.000592", "name": "平潭发展", "action": "BUY", "price": 10.7, "volume_ratio": 0.14, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 13:29:00", "code": "SZSE.002300", "name": "太阳电缆", "action": "BUY", "price": 10.18, "volume_ratio": 0.36, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 13:29:00", "code": "SZSE.002240", "name": "盛新锂能", "action": "BUY", "price": 52.11, "volume_ratio": 0.43, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 13:29:00", "code": "SHSE.688331", "name": "荣昌生物", "action": "BUY", "price": 115.26, "volume_ratio": 0.04, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 13:29:00", "code": "SZSE.000592", "name": "平潭发展", "action": "BUY", "price": 10.74, "volume_ratio": 0.11, "source": "AlphaPilot_Email"}

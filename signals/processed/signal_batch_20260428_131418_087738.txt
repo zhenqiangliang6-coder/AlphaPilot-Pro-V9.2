@@ -1,0 +1,8 @@
+{"ts": "2026-04-28 13:14:18", "code": "SZSE.002300", "name": "太阳电缆", "action": "BUY", "price": 9.77, "volume_ratio": 0.2, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 13:14:18", "code": "SZSE.000537", "name": "绿发电力", "action": "SELL", "price": 10.27, "volume_ratio": 0.02, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 13:14:18", "code": "SZSE.300048", "name": "合康新能", "action": "BUY", "price": 6.31, "volume_ratio": 0.14, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 13:14:18", "code": "SZSE.300432", "name": "富临精工", "action": "BUY", "price": 26.32, "volume_ratio": 0.01, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 13:14:18", "code": "SZSE.002300", "name": "太阳电缆", "action": "BUY", "price": 9.78, "volume_ratio": 0.68, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 13:14:18", "code": "SZSE.000537", "name": "绿发电力", "action": "SELL", "price": 10.26, "volume_ratio": 0.06, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 13:14:18", "code": "SZSE.300048", "name": "合康新能", "action": "BUY", "price": 6.32, "volume_ratio": 0.38, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-28 13:14:18", "code": "SZSE.300432", "name": "富临精工", "action": "BUY", "price": 26.4, "volume_ratio": 0.6, "source": "AlphaPilot_Email"}

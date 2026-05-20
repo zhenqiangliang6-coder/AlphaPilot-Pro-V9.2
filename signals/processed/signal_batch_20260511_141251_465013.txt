@@ -1,0 +1,17 @@
+{"ts": "2026-05-11 14:12:51", "code": "SZSE.002046", "name": "国机精工", "action": "SELL", "price": 58.72, "volume_ratio": 0.31, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 14:12:51", "code": "SZSE.002240", "name": "盛新锂能", "action": "BUY", "price": 57.17, "volume_ratio": 0.27, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 14:12:51", "code": "SZSE.300693", "name": "盛弘股份", "action": "BUY", "price": 59.76, "volume_ratio": 0.4, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 14:12:51", "code": "SZSE.001309", "name": "德利明", "action": "SELL", "price": 639.11, "volume_ratio": 0.21, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 14:12:51", "code": "SZSE.002285", "name": "世联行", "action": "BUY", "price": 3.3, "volume_ratio": 2.07, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 14:12:51", "code": "SZSE.300432", "name": "富临精工", "action": "BUY", "price": 26.96, "volume_ratio": 0.14, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 14:12:51", "code": "SHSE.688617", "name": "惠泰医疗", "action": "BUY", "price": 231.09, "volume_ratio": 0.38, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 14:12:51", "code": "SHSE.688617", "name": "惠泰医疗", "action": "BUY", "price": 230.82, "volume_ratio": 0.48, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 14:12:51", "code": "SZSE.002683", "name": "宏大爆破", "action": "BUY", "price": 40.5, "volume_ratio": 0.2, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 14:12:51", "code": "SZSE.002498", "name": "汉缆股份", "action": "BUY", "price": 9.05, "volume_ratio": 0.44, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 14:12:51", "code": "SZSE.002046", "name": "国机精工", "action": "SELL", "price": 58.65, "volume_ratio": 0.9, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 14:12:51", "code": "SZSE.000536", "name": "华映科技", "action": "BUY", "price": 4.06, "volume_ratio": 0.05, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 14:12:51", "code": "SZSE.002240", "name": "盛新锂能", "action": "BUY", "price": 57.32, "volume_ratio": 0.31, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 14:12:51", "code": "SZSE.300693", "name": "盛弘股份", "action": "BUY", "price": 59.76, "volume_ratio": 0.62, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 14:12:51", "code": "SZSE.001309", "name": "德利明", "action": "SELL", "price": 639.0, "volume_ratio": 0.32, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 14:12:51", "code": "SZSE.002285", "name": "世联行", "action": "BUY", "price": 3.31, "volume_ratio": 0.54, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 14:12:51", "code": "SZSE.300432", "name": "富临精工", "action": "BUY", "price": 26.96, "volume_ratio": 0.07, "source": "AlphaPilot_Email"}

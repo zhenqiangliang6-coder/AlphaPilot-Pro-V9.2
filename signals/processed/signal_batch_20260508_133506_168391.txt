@@ -1,0 +1,14 @@
+{"ts": "2026-05-08 13:35:04", "code": "SHSE.688811", "name": "有研复材", "action": "BUY", "price": 29.4, "volume_ratio": 0.14, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:35:04", "code": "SZSE.002062", "name": "宏润建设", "action": "SELL", "price": 9.84, "volume_ratio": 0.46, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:35:04", "code": "SZSE.002108", "name": "沧州明珠", "action": "BUY", "price": 5.83, "volume_ratio": 0.28, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:35:04", "code": "SZSE.002203", "name": "海亮股份", "action": "SELL", "price": 22.24, "volume_ratio": 0.27, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:35:04", "code": "SZSE.002338", "name": "奥普光电", "action": "BUY", "price": 61.86, "volume_ratio": 1.58, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:35:04", "code": "SZSE.002436", "name": "兴森科技", "action": "BUY", "price": 31.95, "volume_ratio": 0.13, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:35:04", "code": "SZSE.002487", "name": "大金重工", "action": "BUY", "price": 83.56, "volume_ratio": 0.01, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:35:04", "code": "SHSE.688811", "name": "有研复材", "action": "BUY", "price": 29.49, "volume_ratio": 3.42, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:35:04", "code": "SZSE.002062", "name": "宏润建设", "action": "SELL", "price": 9.82, "volume_ratio": 0.33, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:35:04", "code": "SZSE.002108", "name": "沧州明珠", "action": "BUY", "price": 5.84, "volume_ratio": 0.14, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:35:04", "code": "SZSE.002203", "name": "海亮股份", "action": "SELL", "price": 22.16, "volume_ratio": 0.08, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:35:04", "code": "SZSE.002338", "name": "奥普光电", "action": "BUY", "price": 61.94, "volume_ratio": 0.5, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:35:04", "code": "SZSE.002436", "name": "兴森科技", "action": "BUY", "price": 31.99, "volume_ratio": 0.33, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:35:04", "code": "SZSE.002487", "name": "大金重工", "action": "BUY", "price": 83.6, "volume_ratio": 0.19, "source": "AlphaPilot_Email"}

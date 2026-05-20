@@ -1,0 +1,11 @@
+{"ts": "2026-05-13 11:30:05", "code": "SHSE.603315", "name": "福鞍股份", "action": "SELL", "price": 19.86, "volume_ratio": 0.04, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 11:30:05", "code": "SHSE.603699", "name": "纽威股份", "action": "SELL", "price": 62.88, "volume_ratio": 0.15, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 11:30:05", "code": "SHSE.605060", "name": "联德股份", "action": "SELL", "price": 66.99, "volume_ratio": 1.22, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 11:30:05", "code": "SHSE.605100", "name": "华丰股份", "action": "SELL", "price": 53.24, "volume_ratio": 0.33, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 11:30:05", "code": "SHSE.688150", "name": "莱特光电", "action": "BUY", "price": 58.4, "volume_ratio": 9.87, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 11:30:05", "code": "SHSE.688313", "name": "仕佳光子", "action": "BUY", "price": 178.1, "volume_ratio": 0.22, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 11:30:05", "code": "SHSE.603699", "name": "纽威股份", "action": "SELL", "price": 62.79, "volume_ratio": 0.58, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 11:30:05", "code": "SHSE.605060", "name": "联德股份", "action": "SELL", "price": 66.81, "volume_ratio": 1.77, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 11:30:05", "code": "SHSE.605100", "name": "华丰股份", "action": "SELL", "price": 53.21, "volume_ratio": 0.98, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 11:30:05", "code": "SHSE.688150", "name": "莱特光电", "action": "BUY", "price": 58.55, "volume_ratio": 3.28, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 11:30:05", "code": "SHSE.688313", "name": "仕佳光子", "action": "BUY", "price": 178.22, "volume_ratio": 0.17, "source": "AlphaPilot_Email"}

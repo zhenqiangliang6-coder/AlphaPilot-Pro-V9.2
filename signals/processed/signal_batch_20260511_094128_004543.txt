@@ -1,0 +1,4 @@
+{"ts": "2026-05-11 09:41:27", "code": "SZSE.002062", "name": "宏润建设", "action": "SELL", "price": 10.45, "volume_ratio": 2.0, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 09:41:27", "code": "SZSE.002580", "name": "圣阳股份", "action": "SELL", "price": 31.75, "volume_ratio": 0.37, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 09:41:27", "code": "SZSE.002062", "name": "宏润建设", "action": "SELL", "price": 10.44, "volume_ratio": 1.8, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 09:41:27", "code": "SZSE.002580", "name": "圣阳股份", "action": "SELL", "price": 31.32, "volume_ratio": 0.06, "source": "AlphaPilot_Email"}

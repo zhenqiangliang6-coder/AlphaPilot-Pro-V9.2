@@ -1,0 +1,8 @@
+{"ts": "2026-05-11 13:24:04", "code": "SZSE.300641", "name": "正丹股份", "action": "BUY", "price": 17.55, "volume_ratio": 0.08, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 13:24:04", "code": "SZSE.301389", "name": "隆扬电子", "action": "SELL", "price": 72.52, "volume_ratio": 0.08, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 13:24:04", "code": "SHSE.688700", "name": "东威科技", "action": "BUY", "price": 66.07, "volume_ratio": 0.25, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 13:24:04", "code": "SHSE.688689", "name": "银河微电", "action": "BUY", "price": 40.51, "volume_ratio": 4.28, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 13:24:04", "code": "SZSE.300641", "name": "正丹股份", "action": "BUY", "price": 17.56, "volume_ratio": 0.07, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 13:24:04", "code": "SZSE.301389", "name": "隆扬电子", "action": "SELL", "price": 72.5, "volume_ratio": 0.29, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 13:24:04", "code": "SHSE.688700", "name": "东威科技", "action": "BUY", "price": 66.15, "volume_ratio": 1.41, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-11 13:24:04", "code": "SHSE.688689", "name": "银河微电", "action": "BUY", "price": 40.56, "volume_ratio": 0.11, "source": "AlphaPilot_Email"}

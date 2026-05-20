@@ -1,0 +1,2 @@
+{"ts": "2026-05-18 15:03:11", "code": "SHSE.603353", "name": "和顺电气", "action": "BUY", "price": 46.26, "volume_ratio": 2.18, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 15:03:11", "code": "SHSE.603353", "name": "和顺电气", "action": "BUY", "price": 46.28, "volume_ratio": NaN, "source": "AlphaPilot_Email"}

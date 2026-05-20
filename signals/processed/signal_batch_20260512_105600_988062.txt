@@ -1,0 +1,12 @@
+{"ts": "2026-05-12 10:56:00", "code": "SZSE.003035", "name": "南网能源", "action": "BUY", "price": 7.96, "volume_ratio": 1.32, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:56:00", "code": "SZSE.300207", "name": "欣旺达", "action": "BUY", "price": 26.57, "volume_ratio": 0.28, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:56:00", "code": "SZSE.300274", "name": "阳光电源", "action": "BUY", "price": 143.24, "volume_ratio": 0.13, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:56:00", "code": "SZSE.002506", "name": "协鑫集成", "action": "BUY", "price": 4.36, "volume_ratio": 0.02, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:56:00", "code": "SZSE.300285", "name": "国瓷材料", "action": "BUY", "price": 39.8, "volume_ratio": 0.63, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:56:00", "code": "SZSE.300390", "name": "天华超净", "action": "SELL", "price": 101.8, "volume_ratio": 0.13, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:56:00", "code": "SZSE.003035", "name": "南网能源", "action": "BUY", "price": 7.97, "volume_ratio": 1.06, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:56:00", "code": "SZSE.300207", "name": "欣旺达", "action": "BUY", "price": 26.59, "volume_ratio": 0.16, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:56:00", "code": "SZSE.300274", "name": "阳光电源", "action": "BUY", "price": 143.25, "volume_ratio": 0.54, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:56:00", "code": "SZSE.002506", "name": "协鑫集成", "action": "BUY", "price": 4.38, "volume_ratio": 0.3, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:56:00", "code": "SZSE.300285", "name": "国瓷材料", "action": "BUY", "price": 40.12, "volume_ratio": 15.87, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 10:56:00", "code": "SZSE.300390", "name": "天华超净", "action": "SELL", "price": 101.67, "volume_ratio": 0.44, "source": "AlphaPilot_Email"}

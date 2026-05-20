@@ -1,0 +1,154 @@
+这个想法很成熟了——你现在不是在“加个功能”，而是在设计一个新的时间维度决策层。
+
+我先给你一个清晰的整体方案，然后再说怎么一步步落地、做到可热更新。
+
+总体思路：给延时票多一个“竞价买入模式”
+对每只延时股票，增加一个配置字段，比如：
+
+delayed_mode：
+
+"t_minus_1_1439"：前一交易日 14:39 保底买入（你现在的模式）
+
+"auction_next_day"：信号后 下一交易日早盘集合竞价买入
+
+未来还可以扩展 "intraday_breakout" 等
+
+这样你就不是“全局改逻辑”，而是：
+
+每只延时票自己决定：是 T‑1 14:39 买，还是 T 日竞价买。
+
+关键设计：延时策略 + 竞价策略协同
+你现在已经有：
+
+DelayedStrategy.check_and_execute()：负责 T‑1 日盘中/14:39 买入
+
+AuctionStrategy.execute()：负责 09:21–09:25 精英名单卖出
+
+我们可以这样扩展：
+
+在个性配置里给延时票加一个字段：
+
+json
+"600821": {
+  "name": "金发科技",
+  "type": "delayed",
+  "delay_days": 4,
+  "min_volume_ratio": 2.0,
+  "delayed_mode": "auction_next_day"
+}
+在 DelayedStrategy 里，识别这种模式：
+
+如果 delayed_mode == "t_minus_1_1439"：
+→ 走你现在这套 T‑1 日逻辑（量比触发 + 14:39 保底）
+
+如果 delayed_mode == "auction_next_day"：
+→ T‑1 日不买，只登记
+→ 在 watchlist 里标记："buy_at_auction": true
+
+在 AuctionStrategy 里增加“延时票竞价买入”分支：
+
+现在它只做“精英名单卖出”
+
+可以加一段：
+
+python
+def execute(self):
+    # 1. 先执行原有精英名单卖出
+    self._sell_elite_list()
+
+    # 2. 再执行延时票的竞价买入
+    self._buy_delayed_at_auction()
+_buy_delayed_at_auction() 逻辑大致是：
+
+遍历 delayed_watchlist
+
+找出 buy_at_auction == True 且 today == target_date 的股票
+
+用竞价价格（或昨收价±一定偏移）下买单
+
+成功后从 watchlist 删除
+
+时间线举例（你说的“利润最大化”场景）
+假设：
+
+4 月 16 日出信号
+
+delay_days = 4 → target_date = 4 月 22 日
+
+delayed_mode = "auction_next_day"
+
+那么：
+
+4 月 22 日（T‑1）：
+
+不再 14:39 买入
+
+只是“确认明天要竞价买”
+
+4 月 23 日（T 日 09:21–09:25）：
+
+AuctionStrategy 执行 _buy_delayed_at_auction()
+
+对这些标记了 buy_at_auction 的延时票下买单
+
+买完后从 watchlist 删除
+
+这样你就实现了：
+
+有些延时票不在 T‑1 14:39 买，而是 T 日竞价买，以博取更好的性价比。
+
+热更新怎么做？
+你现在的架构已经很适合热更新配置：
+
+个性配置在 stock_personalities.json
+
+DelayedStrategy 每次运行时都可以重新加载配置（或者你加一个“手动重载”函数）
+
+做法：
+
+在 DelayedStrategy 里加一个方法：
+
+python
+def reload_personalities(self):
+    self.stock_personalities = self._load_personalities()
+写一个小工具脚本，比如 reload_config.py，内容类似：
+
+python
+from strategies.delayed_strategy import DelayedStrategy
+from core.trader_engine import TraderEngine
+
+engine = TraderEngine(None)  # 或 mock
+ds = DelayedStrategy(engine)
+ds.reload_personalities()
+print("配置已重载")
+实盘中，你只需要：
+
+改 stock_personalities.json 里某只股票的 delayed_mode
+
+跑一下 reload_config.py
+
+不用停主策略，就能改变后续行为
+
+更高级一点，可以在 HeartbeatMonitor 或某个管理线程里定时检测配置文件的修改时间，自动重载——但这个可以以后再玩。
+
+你现在可以怎么推进？
+如果你愿意，我们可以按这个顺序来：
+
+我先给你改好的 DelayedStrategy 片段：
+
+支持 delayed_mode
+
+支持 buy_at_auction 标记
+
+再给你改好的 AuctionStrategy 片段：
+
+在 09:21–09:25 时，除了卖出精英名单，还会买入这些延时票
+
+最后我们写一个小的 test_auction_delayed_integration.py：
+
+模拟一只 delayed_mode = "auction_next_day" 的股票
+
+看它是否在 T 日竞价被买入
+
+你要不要先把现在的 AuctionStrategy 代码贴出来？
+我可以在你现有的基础上，直接帮你“无缝加一层竞价买入逻辑”。

@@ -1,0 +1,8 @@
+{"ts": "2026-05-12 11:05:47", "code": "SZSE.002015", "name": "协鑫能科", "action": "BUY", "price": 21.55, "volume_ratio": 1.42, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 11:05:47", "code": "SZSE.300345", "name": "华民股份", "action": "SELL", "price": 7.21, "volume_ratio": 2.01, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 11:05:47", "code": "SZSE.300724", "name": "捷佳伟创", "action": "SELL", "price": 93.46, "volume_ratio": 0.26, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 11:05:47", "code": "SZSE.301281", "name": "利源制药", "action": "BUY", "price": 41.57, "volume_ratio": 0.08, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 11:05:47", "code": "SZSE.002015", "name": "协鑫能科", "action": "BUY", "price": 21.62, "volume_ratio": 1.42, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 11:05:47", "code": "SZSE.300345", "name": "华民股份", "action": "SELL", "price": 7.2, "volume_ratio": 1.09, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 11:05:47", "code": "SZSE.300724", "name": "捷佳伟创", "action": "SELL", "price": 93.42, "volume_ratio": 0.69, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 11:05:47", "code": "SZSE.301281", "name": "利源制药", "action": "BUY", "price": 41.74, "volume_ratio": 1.9, "source": "AlphaPilot_Email"}

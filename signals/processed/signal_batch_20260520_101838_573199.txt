@@ -1,0 +1,17 @@
+{"ts": "2026-05-20 10:18:38", "code": "SZSE.002300", "name": "太阳电缆", "action": "SELL", "price": 9.82, "volume_ratio": 0.49, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:18:38", "code": "SZSE.002460", "name": "赣锋锂业", "action": "SELL", "price": 74.35, "volume_ratio": 1.94, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:18:38", "code": "SZSE.002498", "name": "汉缆股份", "action": "SELL", "price": 9.33, "volume_ratio": 0.44, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:18:38", "code": "SZSE.002364", "name": "中恒电器", "action": "BUY", "price": 51.67, "volume_ratio": 0.05, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:18:38", "code": "SZSE.002475", "name": "立讯精密", "action": "BUY", "price": 71.23, "volume_ratio": 0.08, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:18:38", "code": "SZSE.300048", "name": "合康新能", "action": "SELL", "price": 6.08, "volume_ratio": 0.02, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:18:38", "code": "SZSE.000536", "name": "华映科技", "action": "BUY", "price": 3.91, "volume_ratio": 2.15, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:18:38", "code": "SZSE.001309", "name": "德利明", "action": "SELL", "price": 704.97, "volume_ratio": 0.24, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:18:38", "code": "SZSE.002300", "name": "太阳电缆", "action": "SELL", "price": 9.78, "volume_ratio": 0.3, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:18:38", "code": "SZSE.002460", "name": "赣锋锂业", "action": "SELL", "price": 74.13, "volume_ratio": 2.26, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:18:38", "code": "SZSE.002498", "name": "汉缆股份", "action": "SELL", "price": 9.3, "volume_ratio": 0.34, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:18:38", "code": "SZSE.002364", "name": "中恒电器", "action": "BUY", "price": 51.69, "volume_ratio": 0.14, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:18:38", "code": "SZSE.000537", "name": "绿发电力", "action": "BUY", "price": 10.68, "volume_ratio": 0.39, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:18:38", "code": "SZSE.002475", "name": "立讯精密", "action": "BUY", "price": 71.27, "volume_ratio": 0.44, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:18:38", "code": "SZSE.300048", "name": "合康新能", "action": "SELL", "price": 6.07, "volume_ratio": 1.25, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:18:38", "code": "SZSE.001309", "name": "德利明", "action": "SELL", "price": 703.47, "volume_ratio": 0.3, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:18:38", "code": "SHSE.688331", "name": "荣昌生物", "action": "SELL", "price": 114.6, "volume_ratio": 1.44, "source": "AlphaPilot_Email"}

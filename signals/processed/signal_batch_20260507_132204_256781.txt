@@ -1,0 +1,14 @@
+{"ts": "2026-05-07 13:22:04", "code": "SZSE.300722", "name": "新余国科", "action": "SELL", "price": 28.48, "volume_ratio": 0.48, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:22:04", "code": "SZSE.300259", "name": "新天科技", "action": "BUY", "price": 4.45, "volume_ratio": 1.07, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:22:04", "code": "SZSE.300641", "name": "正丹股份", "action": "BUY", "price": 17.68, "volume_ratio": 0.39, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:22:04", "code": "SZSE.300385", "name": "雪浪环境", "action": "SELL", "price": 15.83, "volume_ratio": 0.82, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:22:04", "code": "SZSE.301389", "name": "隆扬电子", "action": "BUY", "price": 70.83, "volume_ratio": 0.01, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:22:04", "code": "SZSE.301449", "name": "天溯计量", "action": "SELL", "price": 69.69, "volume_ratio": 0.82, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:22:04", "code": "SZSE.002980", "name": "华盛昌", "action": "SELL", "price": 81.67, "volume_ratio": 0.4, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:22:04", "code": "SZSE.300722", "name": "新余国科", "action": "SELL", "price": 28.46, "volume_ratio": 0.03, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:22:04", "code": "SZSE.300259", "name": "新天科技", "action": "BUY", "price": 4.46, "volume_ratio": 5.27, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:22:04", "code": "SZSE.300641", "name": "正丹股份", "action": "BUY", "price": 17.69, "volume_ratio": 0.31, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:22:04", "code": "SZSE.300385", "name": "雪浪环境", "action": "SELL", "price": 15.8, "volume_ratio": 0.85, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:22:04", "code": "SZSE.301389", "name": "隆扬电子", "action": "BUY", "price": 70.97, "volume_ratio": 0.18, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:22:04", "code": "SZSE.301449", "name": "天溯计量", "action": "SELL", "price": 69.63, "volume_ratio": 1.5, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 13:22:04", "code": "SZSE.002980", "name": "华盛昌", "action": "SELL", "price": 81.38, "volume_ratio": 0.17, "source": "AlphaPilot_Email"}

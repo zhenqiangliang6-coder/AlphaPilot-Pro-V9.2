@@ -1,0 +1,8 @@
+{"ts": "2026-05-12 09:53:41", "code": "SHSE.600103", "name": "青山纸业", "action": "BUY", "price": 4.91, "volume_ratio": 1.25, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 09:53:41", "code": "SHSE.600184", "name": "光电股份", "action": "SELL", "price": 28.42, "volume_ratio": 2.87, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 09:53:41", "code": "SHSE.600498", "name": "烽火通信", "action": "BUY", "price": 59.78, "volume_ratio": 0.03, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 09:53:41", "code": "SHSE.600699", "name": "均胜电子", "action": "SELL", "price": 28.67, "volume_ratio": 0.32, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 09:53:41", "code": "SHSE.600103", "name": "青山纸业", "action": "BUY", "price": 4.92, "volume_ratio": 0.48, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 09:53:41", "code": "SHSE.600184", "name": "光电股份", "action": "SELL", "price": 28.29, "volume_ratio": 1.59, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 09:53:41", "code": "SHSE.600498", "name": "烽火通信", "action": "BUY", "price": 60.07, "volume_ratio": 0.09, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 09:53:41", "code": "SHSE.600699", "name": "均胜电子", "action": "SELL", "price": 28.64, "volume_ratio": 0.06, "source": "AlphaPilot_Email"}

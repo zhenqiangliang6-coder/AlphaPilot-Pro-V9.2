@@ -1,0 +1,12 @@
+{"ts": "2026-05-12 09:59:57", "code": "SZSE.301319", "name": "唯特偶", "action": "SELL", "price": 99.53, "volume_ratio": 2.38, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 09:59:57", "code": "SZSE.301366", "name": "一博科技", "action": "SELL", "price": 41.81, "volume_ratio": 0.26, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 09:59:57", "code": "SZSE.301382", "name": "蜂助手", "action": "BUY", "price": 50.2, "volume_ratio": 0.21, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 09:59:57", "code": "SZSE.301389", "name": "隆扬电子", "action": "BUY", "price": 76.91, "volume_ratio": 0.46, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 09:59:57", "code": "SZSE.301458", "name": "钧崴电子", "action": "BUY", "price": 44.0, "volume_ratio": 0.67, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 09:59:57", "code": "SZSE.301536", "name": "星宸科技", "action": "SELL", "price": 90.84, "volume_ratio": 0.05, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 09:59:57", "code": "SZSE.301282", "name": "金禄电子", "action": "BUY", "price": 29.97, "volume_ratio": 0.05, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 09:59:57", "code": "SZSE.301319", "name": "唯特偶", "action": "SELL", "price": 99.3, "volume_ratio": 2.22, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 09:59:57", "code": "SZSE.301366", "name": "一博科技", "action": "SELL", "price": 41.77, "volume_ratio": 0.71, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 09:59:57", "code": "SZSE.301382", "name": "蜂助手", "action": "BUY", "price": 50.22, "volume_ratio": 1.15, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 09:59:57", "code": "SZSE.301458", "name": "钧崴电子", "action": "BUY", "price": 44.17, "volume_ratio": 1.04, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 09:59:57", "code": "SZSE.301536", "name": "星宸科技", "action": "SELL", "price": 90.81, "volume_ratio": 0.34, "source": "AlphaPilot_Email"}

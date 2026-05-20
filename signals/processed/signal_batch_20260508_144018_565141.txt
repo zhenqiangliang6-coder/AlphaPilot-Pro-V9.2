@@ -1,0 +1,14 @@
+{"ts": "2026-05-08 14:40:17", "code": "SZSE.301282", "name": "金禄电子", "action": "SELL", "price": 31.39, "volume_ratio": 0.41, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 14:40:17", "code": "SZSE.301295", "name": "美硕科技", "action": "SELL", "price": 47.33, "volume_ratio": 0.17, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 14:40:17", "code": "SZSE.301319", "name": "唯特偶", "action": "SELL", "price": 94.88, "volume_ratio": 0.39, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 14:40:17", "code": "SZSE.301366", "name": "一博科技", "action": "SELL", "price": 42.41, "volume_ratio": 0.22, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 14:40:17", "code": "SZSE.301389", "name": "隆扬电子", "action": "SELL", "price": 72.37, "volume_ratio": 1.08, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 14:40:17", "code": "SZSE.301667", "name": "纳百川", "action": "BUY", "price": 109.5, "volume_ratio": 0.15, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 14:40:17", "code": "SZSE.301282", "name": "金禄电子", "action": "SELL", "price": 31.36, "volume_ratio": 0.8, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 14:40:17", "code": "SZSE.301295", "name": "美硕科技", "action": "SELL", "price": 47.31, "volume_ratio": 0.98, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 14:40:17", "code": "SZSE.301319", "name": "唯特偶", "action": "SELL", "price": 94.86, "volume_ratio": 1.04, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 14:40:17", "code": "SZSE.301328", "name": "维峰电子", "action": "SELL", "price": 69.88, "volume_ratio": 4.47, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 14:40:17", "code": "SZSE.301366", "name": "一博科技", "action": "SELL", "price": 42.38, "volume_ratio": 0.33, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 14:40:17", "code": "SZSE.301389", "name": "隆扬电子", "action": "SELL", "price": 72.24, "volume_ratio": 0.08, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 14:40:17", "code": "SZSE.301458", "name": "钧崴电子", "action": "SELL", "price": 42.95, "volume_ratio": 0.06, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 14:40:17", "code": "SZSE.301536", "name": "星宸科技", "action": "SELL", "price": 88.16, "volume_ratio": 0.04, "source": "AlphaPilot_Email"}

@@ -1,0 +1,4 @@
+{"ts": "2026-04-27 13:13:34", "code": "SZSE.000510", "name": "新金路", "action": "BUY", "price": 13.11, "volume_ratio": 0.07, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 13:13:34", "code": "SZSE.001309", "name": "德利明", "action": "BUY", "price": 486.15, "volume_ratio": 0.14, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 13:13:34", "code": "SZSE.000510", "name": "新金路", "action": "BUY", "price": 13.13, "volume_ratio": 0.76, "source": "AlphaPilot_Email"}
+{"ts": "2026-04-27 13:13:34", "code": "SZSE.001309", "name": "德利明", "action": "BUY", "price": 486.3, "volume_ratio": 1.01, "source": "AlphaPilot_Email"}

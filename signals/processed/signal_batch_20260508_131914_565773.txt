@@ -1,0 +1,12 @@
+{"ts": "2026-05-08 13:19:13", "code": "SZSE.301319", "name": "唯特偶", "action": "SELL", "price": 96.34, "volume_ratio": 0.1, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:19:13", "code": "SZSE.301328", "name": "维峰电子", "action": "SELL", "price": 70.06, "volume_ratio": 0.34, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:19:13", "code": "SZSE.301366", "name": "一博科技", "action": "BUY", "price": 42.36, "volume_ratio": 0.57, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:19:13", "code": "SZSE.301536", "name": "星宸科技", "action": "SELL", "price": 87.74, "volume_ratio": 0.05, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:19:13", "code": "SZSE.301662", "name": "宏工科技", "action": "BUY", "price": 181.13, "volume_ratio": 0.02, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:19:13", "code": "SZSE.301667", "name": "纳百川", "action": "SELL", "price": 109.88, "volume_ratio": 0.06, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:19:13", "code": "SZSE.301319", "name": "唯特偶", "action": "SELL", "price": 95.99, "volume_ratio": 0.94, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:19:13", "code": "SZSE.301328", "name": "维峰电子", "action": "SELL", "price": 70.0, "volume_ratio": 2.77, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:19:13", "code": "SZSE.301366", "name": "一博科技", "action": "BUY", "price": 42.38, "volume_ratio": 3.16, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:19:13", "code": "SZSE.301536", "name": "星宸科技", "action": "SELL", "price": 87.69, "volume_ratio": 0.08, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:19:13", "code": "SZSE.301662", "name": "宏工科技", "action": "BUY", "price": 181.15, "volume_ratio": 0.13, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:19:13", "code": "SZSE.301667", "name": "纳百川", "action": "SELL", "price": 109.8, "volume_ratio": 0.12, "source": "AlphaPilot_Email"}

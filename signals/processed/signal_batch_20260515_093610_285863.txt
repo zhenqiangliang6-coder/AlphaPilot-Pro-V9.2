@@ -1,0 +1,3 @@
+{"ts": "2026-05-15 09:36:09", "code": "SZSE.301085", "name": "亚康股份", "action": "BUY", "price": 78.03, "volume_ratio": 0.03, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 09:36:09", "code": "SZSE.300570", "name": "太辰光", "action": "SELL", "price": 173.42, "volume_ratio": 0.59, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-15 09:36:09", "code": "SZSE.301085", "name": "亚康股份", "action": "BUY", "price": 78.29, "volume_ratio": 0.38, "source": "AlphaPilot_Email"}

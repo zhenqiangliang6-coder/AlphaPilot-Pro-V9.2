@@ -1,0 +1,6 @@
+{"ts": "2026-05-13 11:02:04", "code": "SZSE.000536", "name": "华映科技", "action": "SELL", "price": 4.03, "volume_ratio": 0.14, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 11:02:04", "code": "SZSE.001309", "name": "德利明", "action": "BUY", "price": 628.75, "volume_ratio": 0.85, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 11:02:04", "code": "SZSE.300432", "name": "富临精工", "action": "SELL", "price": 25.61, "volume_ratio": 2.12, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 11:02:04", "code": "SZSE.000536", "name": "华映科技", "action": "SELL", "price": 4.02, "volume_ratio": 0.41, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 11:02:04", "code": "SZSE.001309", "name": "德利明", "action": "BUY", "price": 628.94, "volume_ratio": 0.57, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-13 11:02:04", "code": "SZSE.300432", "name": "富临精工", "action": "SELL", "price": 25.57, "volume_ratio": 1.56, "source": "AlphaPilot_Email"}

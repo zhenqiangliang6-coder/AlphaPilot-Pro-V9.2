@@ -1,0 +1,8 @@
+{"ts": "2026-05-18 11:21:41", "code": "SZSE.002455", "name": "百川股份", "action": "SELL", "price": 9.92, "volume_ratio": 0.27, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 11:21:41", "code": "SZSE.002506", "name": "协鑫集成", "action": "BUY", "price": 4.33, "volume_ratio": 0.6, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 11:21:41", "code": "SZSE.300449", "name": "汉邦高科", "action": "SELL", "price": 9.85, "volume_ratio": 0.04, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 11:21:41", "code": "SZSE.300953", "name": "震裕科技", "action": "BUY", "price": 236.67, "volume_ratio": 0.47, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 11:21:41", "code": "SZSE.002455", "name": "百川股份", "action": "SELL", "price": 9.91, "volume_ratio": 0.86, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 11:21:41", "code": "SZSE.002506", "name": "协鑫集成", "action": "BUY", "price": 4.34, "volume_ratio": 0.43, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 11:21:41", "code": "SZSE.300449", "name": "汉邦高科", "action": "SELL", "price": 9.82, "volume_ratio": 0.32, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 11:21:41", "code": "SZSE.300953", "name": "震裕科技", "action": "BUY", "price": 238.5, "volume_ratio": 0.25, "source": "AlphaPilot_Email"}

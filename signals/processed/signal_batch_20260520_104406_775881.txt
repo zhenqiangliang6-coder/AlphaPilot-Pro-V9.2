@@ -1,0 +1,6 @@
+{"ts": "2026-05-20 10:44:06", "code": "SHSE.688295", "name": "奥林德", "action": "BUY", "price": 52.83, "volume_ratio": 0.11, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:44:06", "code": "SZSE.002445", "name": "中南文化", "action": "SELL", "price": 3.7, "volume_ratio": 0.2, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:44:06", "code": "SHSE.688295", "name": "中复神鹰", "action": "BUY", "price": 52.82, "volume_ratio": 0.46, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:44:06", "code": "SHSE.688295", "name": "奥林德", "action": "BUY", "price": 52.96, "volume_ratio": 0.86, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:44:06", "code": "SZSE.002445", "name": "中南文化", "action": "SELL", "price": 3.69, "volume_ratio": 0.14, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 10:44:06", "code": "SHSE.688295", "name": "中复神鹰", "action": "BUY", "price": 52.97, "volume_ratio": 1.23, "source": "AlphaPilot_Email"}

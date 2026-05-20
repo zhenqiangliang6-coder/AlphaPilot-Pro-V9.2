@@ -1,0 +1,14 @@
+{"ts": "2026-05-07 10:41:00", "code": "SZSE.300763", "name": "锦浪科技", "action": "SELL", "price": 98.76, "volume_ratio": 0.17, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:41:00", "code": "SZSE.300285", "name": "国瓷材料", "action": "BUY", "price": 38.84, "volume_ratio": 0.65, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:41:00", "code": "SZSE.002015", "name": "协鑫能科", "action": "BUY", "price": 20.4, "volume_ratio": 1.07, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:41:00", "code": "SHSE.601669", "name": "中国电建", "action": "BUY", "price": 5.96, "volume_ratio": 13.67, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:41:00", "code": "SZSE.300782", "name": "卓胜微", "action": "BUY", "price": 103.19, "volume_ratio": 0.49, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:41:00", "code": "SZSE.300724", "name": "捷佳伟创", "action": "BUY", "price": 94.21, "volume_ratio": 0.27, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:41:00", "code": "SZSE.300364", "name": "中文在线", "action": "SELL", "price": 31.55, "volume_ratio": 0.42, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:41:00", "code": "SZSE.300763", "name": "锦浪科技", "action": "SELL", "price": 98.73, "volume_ratio": 0.03, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:41:00", "code": "SZSE.300285", "name": "国瓷材料", "action": "BUY", "price": 39.2, "volume_ratio": 0.52, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:41:00", "code": "SZSE.002015", "name": "协鑫能科", "action": "BUY", "price": 20.44, "volume_ratio": 0.42, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:41:00", "code": "SHSE.601669", "name": "中国电建", "action": "BUY", "price": 5.97, "volume_ratio": 0.32, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:41:00", "code": "SZSE.300782", "name": "卓胜微", "action": "BUY", "price": 103.24, "volume_ratio": 1.8, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:41:00", "code": "SZSE.300724", "name": "捷佳伟创", "action": "BUY", "price": 94.47, "volume_ratio": 0.47, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-07 10:41:00", "code": "SZSE.300364", "name": "中文在线", "action": "SELL", "price": 31.47, "volume_ratio": 0.12, "source": "AlphaPilot_Email"}

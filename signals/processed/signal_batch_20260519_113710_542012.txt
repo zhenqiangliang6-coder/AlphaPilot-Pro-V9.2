@@ -1,0 +1,8 @@
+{"ts": "2026-05-19 11:37:10", "code": "SZSE.002015", "name": "协鑫能科", "action": "BUY", "price": 22.18, "volume_ratio": 0.03, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 11:37:10", "code": "SZSE.000533", "name": "顺钠股份", "action": "BUY", "price": 13.52, "volume_ratio": 1.69, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 11:37:10", "code": "SZSE.301226", "name": "祥明智能", "action": "SELL", "price": 40.49, "volume_ratio": 0.08, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 11:37:10", "code": "SZSE.301667", "name": "纳百川", "action": "BUY", "price": 97.45, "volume_ratio": 1.76, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 11:37:10", "code": "SZSE.002015", "name": "协鑫能科", "action": "BUY", "price": 22.19, "volume_ratio": 0.13, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 11:37:10", "code": "SZSE.000533", "name": "顺钠股份", "action": "BUY", "price": 13.53, "volume_ratio": 2.24, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 11:37:10", "code": "SZSE.301226", "name": "祥明智能", "action": "SELL", "price": 40.48, "volume_ratio": 0.08, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 11:37:10", "code": "SZSE.301667", "name": "纳百川", "action": "BUY", "price": 97.66, "volume_ratio": 2.23, "source": "AlphaPilot_Email"}

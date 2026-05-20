@@ -1,0 +1,4 @@
+{"ts": "2026-05-12 15:00:08", "code": "SHSE.600103", "name": "青山纸业", "action": "BUY", "price": 4.94, "volume_ratio": 0.41, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 15:00:08", "code": "SHSE.600184", "name": "光电股份", "action": "BUY", "price": 29.07, "volume_ratio": 2.08, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 15:00:08", "code": "SHSE.600103", "name": "青山纸业", "action": "BUY", "price": 4.95, "volume_ratio": 0.59, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-12 15:00:08", "code": "SHSE.600184", "name": "光电股份", "action": "BUY", "price": 29.08, "volume_ratio": 2.15, "source": "AlphaPilot_Email"}

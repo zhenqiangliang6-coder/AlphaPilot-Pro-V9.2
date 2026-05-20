@@ -1,0 +1,14 @@
+{"ts": "2026-05-20 14:31:03", "code": "SHSE.603083", "name": "剑桥科技", "action": "BUY", "price": 193.67, "volume_ratio": 0.3, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 14:31:03", "code": "SHSE.603315", "name": "福鞍股份", "action": "BUY", "price": 17.3, "volume_ratio": 0.18, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 14:31:03", "code": "SHSE.603699", "name": "纽威股份", "action": "BUY", "price": 64.36, "volume_ratio": 0.11, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 14:31:03", "code": "SHSE.605100", "name": "华丰股份", "action": "SELL", "price": 57.25, "volume_ratio": 0.05, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 14:31:03", "code": "SHSE.688018", "name": "乐鑫科技", "action": "BUY", "price": 187.11, "volume_ratio": 0.16, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 14:31:03", "code": "SHSE.688150", "name": "莱特光电", "action": "SELL", "price": 65.51, "volume_ratio": 0.25, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 14:31:03", "code": "SHSE.688313", "name": "仕佳光子", "action": "BUY", "price": 183.14, "volume_ratio": 0.6, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 14:31:03", "code": "SHSE.688337", "name": "普源精电", "action": "BUY", "price": 66.02, "volume_ratio": 1.28, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 14:31:03", "code": "SHSE.603083", "name": "剑桥科技", "action": "BUY", "price": 193.69, "volume_ratio": 0.1, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 14:31:03", "code": "SHSE.603699", "name": "纽威股份", "action": "BUY", "price": 64.49, "volume_ratio": 0.58, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 14:31:03", "code": "SHSE.605100", "name": "华丰股份", "action": "SELL", "price": 57.22, "volume_ratio": 4.03, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 14:31:03", "code": "SHSE.688018", "name": "乐鑫科技", "action": "BUY", "price": 187.15, "volume_ratio": 0.46, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 14:31:03", "code": "SHSE.688150", "name": "莱特光电", "action": "SELL", "price": 65.45, "volume_ratio": 0.08, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-20 14:31:03", "code": "SHSE.688337", "name": "普源精电", "action": "BUY", "price": 66.13, "volume_ratio": 0.8, "source": "AlphaPilot_Email"}

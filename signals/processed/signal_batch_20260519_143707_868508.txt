@@ -1,0 +1,16 @@
+{"ts": "2026-05-19 14:37:07", "code": "SZSE.300195", "name": "长荣股份", "action": "SELL", "price": 6.84, "volume_ratio": 0.74, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 14:37:07", "code": "SZSE.002015", "name": "协鑫能科", "action": "SELL", "price": 22.3, "volume_ratio": 1.48, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 14:37:07", "code": "SZSE.000533", "name": "顺钠股份", "action": "BUY", "price": 13.68, "volume_ratio": 0.12, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 14:37:07", "code": "SZSE.301226", "name": "祥明智能", "action": "BUY", "price": 40.56, "volume_ratio": 0.76, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 14:37:07", "code": "SHSE.601669", "name": "中国电建", "action": "SELL", "price": 5.8, "volume_ratio": 0.25, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 14:37:07", "code": "SHSE.600722", "name": "金牛化工", "action": "BUY", "price": 12.06, "volume_ratio": 0.35, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 14:37:07", "code": "SHSE.601016", "name": "节能风电", "action": "SELL", "price": 5.09, "volume_ratio": 1.16, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 14:37:07", "code": "SZSE.301281", "name": "利源制药", "action": "BUY", "price": 37.72, "volume_ratio": 1.74, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 14:37:07", "code": "SZSE.300195", "name": "长荣股份", "action": "SELL", "price": 6.83, "volume_ratio": 4.04, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 14:37:07", "code": "SZSE.002015", "name": "协鑫能科", "action": "SELL", "price": 22.29, "volume_ratio": 0.46, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 14:37:07", "code": "SZSE.000533", "name": "顺钠股份", "action": "BUY", "price": 13.69, "volume_ratio": 0.5, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 14:37:07", "code": "SZSE.301226", "name": "祥明智能", "action": "BUY", "price": 40.78, "volume_ratio": 0.21, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 14:37:07", "code": "SHSE.601669", "name": "中国电建", "action": "SELL", "price": 5.79, "volume_ratio": 0.06, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 14:37:07", "code": "SHSE.600722", "name": "金牛化工", "action": "BUY", "price": 12.08, "volume_ratio": 0.36, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 14:37:07", "code": "SHSE.601016", "name": "节能风电", "action": "SELL", "price": 5.08, "volume_ratio": 0.61, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-19 14:37:07", "code": "SZSE.301281", "name": "利源制药", "action": "BUY", "price": 37.85, "volume_ratio": 0.12, "source": "AlphaPilot_Email"}

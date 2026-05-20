@@ -1,0 +1,14 @@
+{"ts": "2026-05-08 13:57:25", "code": "SHSE.688416", "name": "恒烁股份", "action": "SELL", "price": 113.62, "volume_ratio": 0.45, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:57:25", "code": "SHSE.688811", "name": "有研复材", "action": "BUY", "price": 29.6, "volume_ratio": 0.16, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:57:25", "code": "SZSE.002062", "name": "宏润建设", "action": "BUY", "price": 10.03, "volume_ratio": 0.55, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:57:25", "code": "SZSE.002108", "name": "沧州明珠", "action": "BUY", "price": 5.85, "volume_ratio": 0.31, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:57:25", "code": "SZSE.002203", "name": "海亮股份", "action": "SELL", "price": 22.1, "volume_ratio": 0.8, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:57:25", "code": "SZSE.002338", "name": "奥普光电", "action": "BUY", "price": 62.0, "volume_ratio": 0.57, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:57:25", "code": "SZSE.002436", "name": "兴森科技", "action": "SELL", "price": 31.99, "volume_ratio": 0.42, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:57:25", "code": "SHSE.688811", "name": "有研复材", "action": "BUY", "price": 29.64, "volume_ratio": 0.12, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:57:25", "code": "SZSE.001400", "name": "江顺科技", "action": "SELL", "price": 214.79, "volume_ratio": 0.9, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:57:25", "code": "SZSE.002062", "name": "宏润建设", "action": "BUY", "price": 10.04, "volume_ratio": 1.59, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:57:25", "code": "SZSE.002108", "name": "沧州明珠", "action": "BUY", "price": 5.86, "volume_ratio": 0.78, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:57:25", "code": "SZSE.002203", "name": "海亮股份", "action": "SELL", "price": 22.07, "volume_ratio": 0.34, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:57:25", "code": "SZSE.002338", "name": "奥普光电", "action": "BUY", "price": 62.04, "volume_ratio": 0.05, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-08 13:57:25", "code": "SZSE.002436", "name": "兴森科技", "action": "SELL", "price": 31.93, "volume_ratio": 0.23, "source": "AlphaPilot_Email"}

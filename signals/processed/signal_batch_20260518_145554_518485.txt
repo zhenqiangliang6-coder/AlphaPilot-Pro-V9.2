@@ -1,0 +1,16 @@
+{"ts": "2026-05-18 14:55:54", "code": "SZSE.002202", "name": "金风科技", "action": "BUY", "price": 25.7, "volume_ratio": 0.13, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 14:55:54", "code": "SZSE.301165", "name": "锐捷网络", "action": "BUY", "price": 94.87, "volume_ratio": 0.46, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 14:55:54", "code": "SZSE.002506", "name": "协鑫集成", "action": "BUY", "price": 4.33, "volume_ratio": 0.2, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 14:55:54", "code": "SZSE.002195", "name": "岩山科技", "action": "BUY", "price": 8.35, "volume_ratio": 0.61, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 14:55:54", "code": "SZSE.301419", "name": "瑞可达", "action": "BUY", "price": 42.36, "volume_ratio": 0.21, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 14:55:54", "code": "SZSE.300449", "name": "汉邦高科", "action": "BUY", "price": 9.79, "volume_ratio": 2.09, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 14:55:54", "code": "SZSE.300868", "name": "杰美特", "action": "BUY", "price": 90.48, "volume_ratio": 0.16, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 14:55:54", "code": "SZSE.300054", "name": "鼎龙股份", "action": "BUY", "price": 72.46, "volume_ratio": 0.67, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 14:55:54", "code": "SZSE.002202", "name": "金风科技", "action": "BUY", "price": 25.73, "volume_ratio": 0.42, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 14:55:54", "code": "SZSE.301165", "name": "锐捷网络", "action": "BUY", "price": 95.0, "volume_ratio": 0.38, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 14:55:54", "code": "SZSE.002506", "name": "协鑫集成", "action": "BUY", "price": 4.34, "volume_ratio": 0.13, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 14:55:54", "code": "SZSE.002195", "name": "岩山科技", "action": "BUY", "price": 8.38, "volume_ratio": 0.6, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 14:55:54", "code": "SZSE.301419", "name": "瑞可达", "action": "BUY", "price": 42.41, "volume_ratio": 0.23, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 14:55:54", "code": "SZSE.300449", "name": "汉邦高科", "action": "BUY", "price": 9.8, "volume_ratio": 0.12, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 14:55:54", "code": "SZSE.300868", "name": "杰美特", "action": "BUY", "price": 90.65, "volume_ratio": 0.14, "source": "AlphaPilot_Email"}
+{"ts": "2026-05-18 14:55:54", "code": "SZSE.300054", "name": "鼎龙股份", "action": "BUY", "price": 72.66, "volume_ratio": 0.89, "source": "AlphaPilot_Email"}
