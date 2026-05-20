@@ -16,14 +16,14 @@ EMAIL_ACCOUNTS = [
         "label": "QQ-主",
         "type": "imap",
         "user": "497720537@qq.com",
-        "password": "qclcsxugjkhacach",  # ← 替换为16位授权码（去掉空格）
+        "password": "********khacach",  # ← 替换为16位授权码（去掉空格）
         "imap_server": "imap.qq.com"
     },
     {
         "label": "QQ-备用",
         "type": "imap",
-        "user": "shouqianbadavid@qq.com",
-        "password": "nwldgunyjnkqeaha",  # ← 替换为16位授权码（去掉空格）
+        "user": "*****anbadavid@qq.com",
+        "password": "*******eaha",  # ← 替换为16位授权码（去掉空格）
         "imap_server": "imap.qq.com"
     }
 ]
